@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Calfa</Creator>
+        <Created>2023-03-13T10:27:06Z</Created>
+        <LastChange>2023-03-15T15:51:49.133+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="BULAC_RES_MON_8_4734_0009.jpg" imageWidth="918" imageHeight="1417">
+        <TextRegion id="r_b-1" custom="structure {type:TitlePageZone;}">
+            <Coords points="130,571 130,620 588,622 584,571 130,571"/>
+            <TextLine id="l_b-1">
+                <Coords points="131,574 580,574 580,616 131,616 131,574"/>
+                <Baseline points="133,601 581,598"/>
+                <TextEquiv>
+                    <Unicode>بسم الله الرحمن الرحيم وصلى الله على سيدنا محمد وسلم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بسم الله الرحمن الرحيم وصلى الله على سيدنا محمد وسلم
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_b-2" custom="structure {type:MainZone;}">
+            <Coords points="88,657 624,660 620,1130 78,1130 88,657"/>
+            <TextLine id="l_b-2">
+                <Coords points="89,668 615,668 615,707 89,707 89,668"/>
+                <Baseline points="91,689 616,688"/>
+                <TextEquiv>
+                    <Unicode>تبارك الذي بيده الملك وهو على كل شي قدير وبارادته التقديم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-3">
+                <Coords points="97,706 613,706 613,748 97,748 97,706"/>
+                <Baseline points="99,732 614,733"/>
+                <TextEquiv>
+                    <Unicode>والتاخير والتصريف والتامير وله الحمد في الاولى والاخرة و والحكيم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-4">
+                <Coords points="96,747 613,747 613,787 96,787 96,747"/>
+                <Baseline points="97,770 614,773"/>
+                <TextEquiv>
+                    <Unicode>الخبير احمده حمدا يمتد بامتداد الاباد واشكره على نعمه الي عت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-5">
+                <Coords points="97,788 614,788 614,828 97,828 97,788"/>
+                <Baseline points="99,812 615,813"/>
+                <TextEquiv>
+                    <Unicode>الحاضر والبد والصلاة والسلام على سيدنا محمد اكرم المخلوقات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-6">
+                <Coords points="98,829 614,829 614,870 98,870 98,829"/>
+                <Baseline points="99,853 615,855"/>
+                <TextEquiv>
+                    <Unicode>وافضل العباد وعلى ءاله وصحبه الزهاد العبد ومن تبعهم باحسان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-7">
+                <Coords points="97,869 611,869 611,912 97,912 97,869"/>
+                <Baseline points="99,891 612,897"/>
+                <TextEquiv>
+                    <Unicode>الى يوم التناد اما بعد فان هذه تذكرة جمعتها من كتب عديدة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-8">
+                <Coords points="99,910 612,910 612,953 99,953 99,910"/>
+                <Baseline points="100,932 613,937"/>
+                <TextEquiv>
+                    <Unicode>ودفاتر شتى وسلكت في تلخيصها طريقة مثلى لا ترى فيها عوجا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-9">
+                <Coords points="96,951 613,951 613,991 96,991 96,951"/>
+                <Baseline points="97,976 614,978"/>
+                <TextEquiv>
+                    <Unicode>ولا امتا وسميتها الخلاصة النقية في امراء افريقية مبتديا بذكر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-10">
+                <Coords points="96,993 610,993 610,1033 96,1033 96,993"/>
+                <Baseline points="97,1017 611,1016"/>
+                <TextEquiv>
+                    <Unicode>من فتحها ومن دخلها من الصحابة ومن وليها بعدهم من ذوي</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-11">
+                <Coords points="99,1033 609,1033 609,1075 99,1075 99,1033"/>
+                <Baseline points="100,1057 610,1058"/>
+                <TextEquiv>
+                    <Unicode>لاصالة ولاصابة ثم نذكر ولاتها من ءال المهلب ثم نفرد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-12">
+                <Coords points="105,1072 608,1072 608,1119 105,1119 105,1072"/>
+                <Baseline points="107,1098 609,1099"/>
+                <TextEquiv>
+                    <Unicode>خبر دولة بني الاغلب وحالها عهد الانقيد والتغلب ثم الدولة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>تبارك الذي بيده الملك وهو على كل شي قدير وبارادته التقديم
+والتاخير والتصريف والتامير وله الحمد في الاولى والاخرة و والحكيم
+الخبير احمده حمدا يمتد بامتداد الاباد واشكره على نعمه الي عت
+الحاضر والبد والصلاة والسلام على سيدنا محمد اكرم المخلوقات
+وافضل العباد وعلى ءاله وصحبه الزهاد العبد ومن تبعهم باحسان
+الى يوم التناد اما بعد فان هذه تذكرة جمعتها من كتب عديدة
+ودفاتر شتى وسلكت في تلخيصها طريقة مثلى لا ترى فيها عوجا
+ولا امتا وسميتها الخلاصة النقية في امراء افريقية مبتديا بذكر
+من فتحها ومن دخلها من الصحابة ومن وليها بعدهم من ذوي
+لاصالة ولاصابة ثم نذكر ولاتها من ءال المهلب ثم نفرد
+خبر دولة بني الاغلب وحالها عهد الانقيد والتغلب ثم الدولة
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

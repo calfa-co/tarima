@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Calfa</Creator>
+        <Created>2023-03-13T10:28:26Z</Created>
+        <LastChange>2023-03-15T16:10:22.710+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="BULAC_RES_MON_8_8967_0010.jpg" imageWidth="982" imageHeight="1406">
+        <TextRegion id="r_b-1" custom="structure {type:MainZone;}">
+            <Coords points="379,235 799,241 793,1076 376,1071 379,235"/>
+            <TextLine id="l_b-1">
+                <Coords points="525,256 656,256 656,301 525,301 525,256"/>
+                <Baseline points="527,286 657,284"/>
+                <TextEquiv>
+                    <Unicode>كتاب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-2">
+                <Coords points="410,317 769,317 769,374 410,374 410,317"/>
+                <Baseline points="411,353 770,357"/>
+                <TextEquiv>
+                    <Unicode>الحلل الموشية في ذكر الاخبار المراكشية</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-3">
+                <Coords points="567,374 618,374 618,419 567,419 567,374"/>
+                <Baseline points="568,409 619,408"/>
+                <TextEquiv>
+                    <Unicode>تاليف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-4">
+                <Coords points="386,424 792,424 792,479 386,479 386,424"/>
+                <Baseline points="388,454 793,458"/>
+                <TextEquiv>
+                    <Unicode>ذي الوزارتين محمد لسان الدين بن الخطيب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-5">
+                <Coords points="385,524 789,524 789,570 385,570 385,524"/>
+                <Baseline points="386,548 790,553"/>
+                <TextEquiv>
+                    <Unicode>طبع على نفقة الفاضل السيد الحاج عبد الله بن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-6">
+                <Coords points="387,566 785,566 785,616 387,616 387,566"/>
+                <Baseline points="389,594 786,596"/>
+                <TextEquiv>
+                    <Unicode>الحسين الكاهية الجراري المغربي السوسي والفاضل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-7">
+                <Coords points="457,615 714,615 714,659 457,659 457,615"/>
+                <Baseline points="458,641 715,638"/>
+                <TextEquiv>
+                    <Unicode>السيد ابراهيم بن محمد العيسي</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-8">
+                <Coords points="383,699 789,699 789,753 383,753 383,699"/>
+                <Baseline points="385,730 790,737"/>
+                <TextEquiv>
+                    <Unicode>وعنى بتصحيحه شريكهما السيد البشير الفورتى</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-9">
+                <Coords points="379,783 786,783 786,834 379,834 379,783"/>
+                <Baseline points="381,811 787,817"/>
+                <TextEquiv>
+                    <Unicode>وقد جرى طبع هذا الكتاب على نسخة عتيقة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-10">
+                <Coords points="487,852 688,852 688,913 487,913 487,852"/>
+                <Baseline points="488,885 689,888"/>
+                <TextEquiv>
+                    <Unicode>حقوق الطبع محفوظة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-11">
+                <Coords points="520,912 649,912 649,966 520,966 520,912"/>
+                <Baseline points="521,942 650,942"/>
+                <TextEquiv>
+                    <Unicode>الطبعة الاولى</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-12">
+                <Coords points="380,984 787,984 787,1031 380,1031 380,984"/>
+                <Baseline points="382,1011 788,1013"/>
+                <TextEquiv>
+                    <Unicode>طبع بمطبعة التقدم الاسلامية لصاحبها البشير. الفورتي</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-13">
+                <Coords points="455,1031 718,1031 718,1073 455,1073 455,1031"/>
+                <Baseline points="457,1053 719,1056"/>
+                <TextEquiv>
+                    <Unicode>بنهج الغني عدد ٣٤ بتونس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>الحلل الموشية في ذكر الاخبار المراكشية
+طبع على نفقة الفاضل السيد الحاج عبد الله بن
+الحسين الكاهية الجراري المغربي السوسي والفاضل
+وعنى بتصحيحه شريكهما السيد البشير الفورتى
+وقد جرى طبع هذا الكتاب على نسخة عتيقة
+طبع بمطبعة التقدم الاسلامية لصاحبها البشير. الفورتي
+بنهج الغني عدد ٣٤ بتونس
+الطبعة الاولى
+حقوق الطبع محفوظة
+السيد ابراهيم بن محمد العيسي
+ذي الوزارتين محمد لسان الدين بن الخطيب
+تاليف
+كتاب
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

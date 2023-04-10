@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Calfa</Creator>
+        <Created>2023-03-13T10:26:51Z</Created>
+        <LastChange>2023-03-15T15:46:02.980+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="BULAC_RES_MON_4_3424_0258.jpg" imageWidth="918" imageHeight="1417">
+        <TextRegion id="r_b-2" custom="structure {type:MainZone;}">
+            <Coords points="197,214 849,219 847,1274 189,1274 195,202"/>
+            <TextLine id="l_b-2">
+                <Coords points="418,222 621,222 621,277 418,277 418,222"/>
+                <Baseline points="420,260 622,257"/>
+                <TextEquiv>
+                    <Unicode>اليوم السادس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-3">
+                <Coords points="379,296 662,296 662,348 379,348 379,296"/>
+                <Baseline points="380,332 663,332"/>
+                <TextEquiv>
+                    <Unicode>من زيارة الحضرة العلية لباريس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-4">
+                <Coords points="375,358 677,358 677,404 375,404 375,358"/>
+                <Baseline points="377,385 678,388"/>
+                <TextEquiv>
+                    <Unicode>يوم الاربعاء في ١٧ يوليه سنة ١٩١٢</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-5">
+                <Coords points="206,412 782,412 782,461 206,461 206,412"/>
+                <Baseline points="207,442 783,446"/>
+                <TextEquiv>
+                    <Unicode>قضى سموه ضحوة هذا اليوم في التفسح وزيارة بستان النباتات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-6">
+                <Coords points="203,465 828,465 828,513 203,513 203,465"/>
+                <Baseline points="204,492 829,496"/>
+                <TextEquiv>
+                    <Unicode>وهو بستان شامل جامع لكل غرس وحيوان كالبستان الاخر الذي تقدم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-7">
+                <Coords points="204,516 829,516 829,561 204,561 204,516"/>
+                <Baseline points="206,542 830,546"/>
+                <TextEquiv>
+                    <Unicode>بسط حديثه في جملة اخبار الايام المتقدمة من الرحلة وهنالك سرح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-8">
+                <Coords points="204,566 829,566 829,611 204,611 204,566"/>
+                <Baseline points="206,591 830,597"/>
+                <TextEquiv>
+                    <Unicode>سموه طرف الطرف في تلك الغياض النضرة وتفرج على اققصة الاسود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-9">
+                <Coords points="204,616 829,616 829,662 204,662 204,616"/>
+                <Baseline points="206,642 830,647"/>
+                <TextEquiv>
+                    <Unicode>والحيوانات المفترسة والقردة والطير متاملا في تلك المخلوقات بعين التوحيد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-10">
+                <Coords points="466,666 829,666 829,712 466,712 466,666"/>
+                <Baseline points="467,694 830,696"/>
+                <TextEquiv>
+                    <Unicode>الله الذي خلق كل شيء وله ما برا وما ذرا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-11">
+                <Coords points="202,718 780,718 780,764 202,764 202,718"/>
+                <Baseline points="203,747 781,747"/>
+                <TextEquiv>
+                    <Unicode>ثم بعد ان استوفى زيارته لذلك البستان خرج سموه قاصدا نهر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-12">
+                <Coords points="205,765 829,765 829,814 205,814 205,765"/>
+                <Baseline points="207,791 830,798"/>
+                <TextEquiv>
+                    <Unicode>السين فركب وحاشيته زوارق ادارة الشرطة وهي زوارق بخارية سريعة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-13">
+                <Coords points="204,821 829,821 829,860 204,860 204,821"/>
+                <Baseline points="205,843 830,846"/>
+                <TextEquiv>
+                    <Unicode>جدا سارت بسموه متفسحا فيما بين باريس وبلد اوتاي وفي حدود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-14">
+                <Coords points="203,867 829,867 829,913 203,913 203,867"/>
+                <Baseline points="204,895 830,899"/>
+                <TextEquiv>
+                    <Unicode>الزوال عاد موكبه السعيد لسراية كريون حيث تناول طعام الفطور مع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-15">
+                <Coords points="204,918 830,918 830,976 204,976 204,918"/>
+                <Baseline points="206,945 831,948"/>
+                <TextEquiv>
+                    <Unicode>انجاله ووزرائه ورجال حاشيته واليك قائمة الاطعمة الشهية التي تناول</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-16">
+                <Coords points="649,970 828,970 828,1028 649,1028 649,970"/>
+                <Baseline points="651,1000 829,997"/>
+                <TextEquiv>
+                    <Unicode>منها سموه ذلك النهار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-17">
+                <Coords points="673,1026 787,1026 787,1080 673,1080 673,1026"/>
+                <Baseline points="674,1048 788,1047"/>
+                <TextEquiv>
+                    <Unicode>مفتح متنوع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-18">
+                <Coords points="531,1072 781,1072 781,1119 531,1119 531,1072"/>
+                <Baseline points="533,1098 782,1099"/>
+                <TextEquiv>
+                    <Unicode>بيض اكل سوزيت اللطيفة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-19">
+                <Coords points="593,1127 780,1127 780,1167 593,1167 593,1127"/>
+                <Baseline points="595,1151 781,1149"/>
+                <TextEquiv>
+                    <Unicode>ضلع خروف مشوي</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-20">
+                <Coords points="647,1175 779,1175 779,1216 647,1216 647,1175"/>
+                <Baseline points="648,1204 780,1200"/>
+                <TextEquiv>
+                    <Unicode>بطاطس باريس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-21">
+                <Coords points="577,1224 780,1224 780,1275 577,1275 577,1224"/>
+                <Baseline points="579,1250 781,1249"/>
+                <TextEquiv>
+                    <Unicode>دجاج في المرق الجامد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>اليوم السادس
+من زيارة الحضرة العلية لباريس
+يوم الاربعاء في ١٧ يوليه سنة ١٩١٢
+قضى سموه ضحوة هذا اليوم في التفسح وزيارة بستان النباتات
+وهو بستان شامل جامع لكل غرس وحيوان كالبستان الاخر الذي تقدم
+بسط حديثه في جملة اخبار الايام المتقدمة من الرحلة وهنالك سرح
+سموه طرف الطرف في تلك الغياض النضرة وتفرج على اققصة الاسود
+والحيوانات المفترسة والقردة والطير متاملا في تلك المخلوقات بعين التوحيد
+الله الذي خلق كل شيء وله ما برا وما ذرا
+ثم بعد ان استوفى زيارته لذلك البستان خرج سموه قاصدا نهر
+السين فركب وحاشيته زوارق ادارة الشرطة وهي زوارق بخارية سريعة
+جدا سارت بسموه متفسحا فيما بين باريس وبلد اوتاي وفي حدود
+الزوال عاد موكبه السعيد لسراية كريون حيث تناول طعام الفطور مع
+انجاله ووزرائه ورجال حاشيته واليك قائمة الاطعمة الشهية التي تناول
+منها سموه ذلك النهار
+بيض اكل سوزيت اللطيفة
+ضلع خروف مشوي
+بطاطس باريس
+دجاج في المرق الجامد
+مفتح متنوع
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

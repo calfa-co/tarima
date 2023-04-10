@@ -1,0 +1,207 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2023-03-30T13:41:30+00:00</Created>
+  </Metadata>
+  <Page imageFilename="MMSH_IREMAM_ARA_MS_011_000005.jpeg" imageHeight="2845" imageWidth="2134">
+    <TextRegion id="r_b-1" custom="structure {type:MainZone;}">
+      <Coords points="1845,1836 1864,1612 1845,1161 1857,911 1840,790 1869,661 1845,466 1779,256 451,304 423,521 394,737 404,1175 418,2117 1883,2064 1845,1836"/>
+      <TextLine id="l_b-1">
+        <Coords points=""/>
+        <Baseline points="486,361 1122,350 1776,316"/>
+        <TextEquiv>
+          <Unicode>ابراهيم بن علي بموضع اضمن من تلاميذ شيخ الحقيقة واما الطريقة</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-2">
+        <Coords points=""/>
+        <Baseline points="469,418 1134,423 1807,384"/>
+        <TextEquiv>
+          <Unicode>سيدي سعيد بن عب المنع كان رضي الله عنه من العلماء العاملين تضرب الرحلة لزيارته</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-3">
+        <Coords points=""/>
+        <Baseline points="442,485 1131,494 1827,460"/>
+        <TextEquiv>
+          <Unicode>قديما وحديثا وومناقبه وكراماته مشهورة قال في الفوائد حدثني محمد بن عبد الرحمن المسجدادي</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-4">
+        <Coords points=""/>
+        <Baseline points="437,546 1134,548 1852,514"/>
+        <TextEquiv>
+          <Unicode>انه ظهر رجل بحاحة يخبر الناس بالمغيبات ويصدق فاتى به للشيخ فقال له احق ما يقول الناس فيك</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-5">
+        <Coords points=""/>
+        <Baseline points="432,599 774,610 1145,596 1846,568"/>
+        <TextEquiv>
+          <Unicode>فقال له نعم فقال له الشيخ مات صاحب لنا في هذا الايام فتخبرني به وبما صنعنا به وقلنا له حين</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-6">
+        <Coords points=""/>
+        <Baseline points="428,656 1131,658 1863,619"/>
+        <TextEquiv>
+          <Unicode>ودعناه فقال انكم لما غسلتموه وكفنتموه اخرجت الناس عنه وقبضت بابهام رجله اليمنى وقلت</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-7">
+        <Coords points=""/>
+        <Baseline points="423,718 1131,701 1866,661"/>
+        <TextEquiv>
+          <Unicode>له ثبتك الله على شهادة ان لا اله الا الله وان محمدا رسول الله صلى الله عليه وسلم فقال لهم الشيخ صدق فعظم</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-8">
+        <Coords points=""/>
+        <Baseline points="418,774 1855,712"/>
+        <TextEquiv>
+          <Unicode>قدره في القلوب ثم بعد قليل خذل فوجد ينزي بامراة فاتي به للشيخ فقال له انك مستدرج ولست على</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-9">
+        <Coords points=""/>
+        <Baseline points="452,836 789,842 1153,839 1824,802"/>
+        <TextEquiv>
+          <Unicode>ابراهيم بن محمد بن داود بن علي الولتي كان رضي الله عنهه رجلا صالحا زاهدا من تلامذة</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-10">
+        <Coords points=""/>
+        <Baseline points="1442,896 1654,893 1846,887"/>
+        <TextEquiv>
+          <Unicode>سيدي احمد بن موسى واصحابه</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-11">
+        <Coords points=""/>
+        <Baseline points="424,1080 808,1060 981,1048 1148,1060 1826,1022"/>
+        <TextEquiv>
+          <Unicode>ابراهيم بن هلال شيخ الفتيا وامام اهل التقى العالم العلامة العلم القدوة كان رضي الله عنه</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-12">
+        <Coords points=""/>
+        <Baseline points="446,1128 1145,1125 1841,1108"/>
+        <TextEquiv>
+          <Unicode>متبحرا في العلوم طويل الباع فيها عظيم. القدر عالي الشان فريد عصره واعجوبة دهره ذكر غير واحد</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-13">
+        <Coords points=""/>
+        <Baseline points="444,1204 1142,1198 1849,1181"/>
+        <TextEquiv>
+          <Unicode>انه شرح مختصر ابن الحاجب الفرعي شرحا عجيبا الا انه لم يوجد وله تعليق على مختصر خليل ولم يتم والف</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-14">
+        <Coords points=""/>
+        <Baseline points="423,1255 729,1266 1128,1255 1487,1255 1849,1238"/>
+        <TextEquiv>
+          <Unicode>مناسك الحج واختصر شرح البخاري لابن حجر وكان غاية في النظم والنثر وله اجوبة وفتاوى كثيرة</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-15">
+        <Coords points=""/>
+        <Baseline points="404,1317 741,1331 1117,1328 1549,1320 1852,1289"/>
+        <TextEquiv>
+          <Unicode>وتوفي رضي الله عنه عام ثلاث وسبعمائة اي في العشرة الاولى من القرن العاشر اخذ بفاس عن عالمها</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-16">
+        <Coords points=""/>
+        <Baseline points="407,1385 1142,1388 1846,1351"/>
+        <TextEquiv>
+          <Unicode>ومفتيها ابن املال والقوري وغيرها وكان رضي الله عنه عالم سجلماسة وصالحها. بركتها حيا وميتا</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-17">
+        <Coords points=""/>
+        <Baseline points="424,1512 1145,1507 1863,1473"/>
+        <TextEquiv>
+          <Unicode>ابراهيم بن عمر بن شعيب الدميري قاضي القضاة بمصر برهان ا لدين اخذ الفقه عن النور التنسي ثم</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-18">
+        <Coords points=""/>
+        <Baseline points="410,1577 1137,1572 1496,1560 1845,1536"/>
+        <TextEquiv>
+          <Unicode>السنهوري والعربية عن البدر البلقيني ولد تقريبا سنة اربعين وثماني مائة قال الشحاوي</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-19">
+        <Coords points=""/>
+        <Baseline points="415,1637 1134,1645 1858,1606"/>
+        <TextEquiv>
+          <Unicode>كان رضي الله عنه كثير التلاوة مع توضع ولين جانب وتقضي سنة ست وتسعمائة</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-20">
+        <Coords points=""/>
+        <Baseline points="511,1702 1168,1713 1841,1665"/>
+        <TextEquiv>
+          <Unicode>بعد موت عبد الغني فسار احسن سيرة وتوفي في رمضان سنة ثلاث وعشرين وتسعمائة</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-21">
+        <Coords points=""/>
+        <Baseline points="421,1857 763,1874 1122,1855 1838,1781"/>
+        <TextEquiv>
+          <Unicode>ابراهيم ابو سالم الوجديجي التلمساني من اشياخ ابي عبد الله ابن هبة الله وكان رضي الله عن من</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-22">
+        <Coords points=""/>
+        <Baseline points="433,1902 769,1934 1122,1925 1835,1855"/>
+        <TextEquiv>
+          <Unicode>العلماء الاعلام واجل عروس تجلى في محافل الرءوس علم فهرب وعبر عن القصد البعيد فقرب</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-23">
+        <Coords points=""/>
+        <Baseline points="749,1982 1301,1968 1846,1903"/>
+        <TextEquiv>
+          <Unicode>توفي رحمه الله في العشرة الرابعة من القرن العاشر بتلمسان وقبره مشهور بها</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-24">
+        <Coords points=""/>
+        <Baseline points="789,2064 1335,2061 1855,1993"/>
+        <TextEquiv>
+          <Unicode>ابراهيم الحريفي السملالي تلميذ سيدي حسين بن داود التغاتيني</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>ابراهيم بن علي بموضع اضمن من تلاميذ شيخ الحقيقة واما الطريقة
+سيدي سعيد بن عب المنع كان رضي الله عنه من العلماء العاملين تضرب الرحلة لزيارته
+قديما وحديثا وومناقبه وكراماته مشهورة قال في الفوائد حدثني محمد بن عبد الرحمن المسجدادي
+انه ظهر رجل بحاحة يخبر الناس بالمغيبات ويصدق فاتى به للشيخ فقال له احق ما يقول الناس فيك
+فقال له نعم فقال له الشيخ مات صاحب لنا في هذا الايام فتخبرني به وبما صنعنا به وقلنا له حين
+ودعناه فقال انكم لما غسلتموه وكفنتموه اخرجت الناس عنه وقبضت بابهام رجله اليمنى وقلت
+له ثبتك الله على شهادة ان لا اله الا الله وان محمدا رسول الله صلى الله عليه وسلم فقال لهم الشيخ صدق فعظم
+قدره في القلوب ثم بعد قليل خذل فوجد ينزي بامراة فاتي به للشيخ فقال له انك مستدرج ولست على
+ابراهيم بن محمد بن داود بن علي الولتي كان رضي الله عنهه رجلا صالحا زاهدا من تلامذة
+سيدي احمد بن موسى واصحابه
+ابراهيم بن هلال شيخ الفتيا وامام اهل التقى العالم العلامة العلم القدوة كان رضي الله عنه
+متبحرا في العلوم طويل الباع فيها عظيم. القدر عالي الشان فريد عصره واعجوبة دهره ذكر غير واحد
+انه شرح مختصر ابن الحاجب الفرعي شرحا عجيبا الا انه لم يوجد وله تعليق على مختصر خليل ولم يتم والف
+مناسك الحج واختصر شرح البخاري لابن حجر وكان غاية في النظم والنثر وله اجوبة وفتاوى كثيرة
+وتوفي رضي الله عنه عام ثلاث وسبعمائة اي في العشرة الاولى من القرن العاشر اخذ بفاس عن عالمها
+ومفتيها ابن املال والقوري وغيرها وكان رضي الله عنه عالم سجلماسة وصالحها. بركتها حيا وميتا
+ابراهيم بن عمر بن شعيب الدميري قاضي القضاة بمصر برهان ا لدين اخذ الفقه عن النور التنسي ثم
+السنهوري والعربية عن البدر البلقيني ولد تقريبا سنة اربعين وثماني مائة قال الشحاوي
+كان رضي الله عنه كثير التلاوة مع توضع ولين جانب وتقضي سنة ست وتسعمائة
+بعد موت عبد الغني فسار احسن سيرة وتوفي في رمضان سنة ثلاث وعشرين وتسعمائة
+ابراهيم ابو سالم الوجديجي التلمساني من اشياخ ابي عبد الله ابن هبة الله وكان رضي الله عن من
+العلماء الاعلام واجل عروس تجلى في محافل الرءوس علم فهرب وعبر عن القصد البعيد فقرب
+توفي رحمه الله في العشرة الرابعة من القرن العاشر بتلمسان وقبره مشهور بها
+ابراهيم الحريفي السملالي تلميذ سيدي حسين بن داود التغاتيني
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

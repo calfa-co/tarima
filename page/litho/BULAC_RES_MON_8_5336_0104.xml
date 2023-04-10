@@ -1,0 +1,369 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2023-02-20T16:22:05+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_RES_MON_8_5336_0104.jpg" imageHeight="1333" imageWidth="982">
+    <TextRegion id="r_b-1" custom="structure {type:MainZone;}">
+      <Coords points="412,94 713,85 715,270 424,271 412,94"/>
+      <TextLine id="l_b-1">
+        <Coords points="413,126 413,139 539,139 719,121 716,88 696,98 680,89 634,90 612,101 596,91 534,100 519,92 493,105 428,101 413,105 413,126"/>
+        <Baseline points="414,127 720,122"/>
+        <TextEquiv>
+          <Unicode>ملك تقاصرت الملوك لغزه</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-2">
+        <Coords points="419,167 419,175 477,174 493,183 716,171 716,134 480,137 418,145 419,167"/>
+        <Baseline points="420,168 718,161"/>
+        <TextEquiv>
+          <Unicode>غيث المواهب بحر كل فضيلة</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-3">
+        <Coords points="413,209 538,222 667,209 681,217 714,200 713,183 659,171 609,186 583,176 532,184 508,176 490,190 412,179 413,209"/>
+        <Baseline points="414,210 715,201"/>
+        <TextEquiv>
+          <Unicode>فرد المحاسن والمفاخر كلها</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-4">
+        <Coords points="413,246 413,267 445,256 488,263 508,252 566,265 604,263 630,249 680,255 719,248 719,240 717,220 693,212 590,221 562,214 528,224 485,216 413,227 413,246"/>
+        <Baseline points="414,247 720,241"/>
+        <TextEquiv>
+          <Unicode>ملك اذا وافى البلاد تارجت</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>ملك تقاصرت الملوك لغزه
+غيث المواهب بحر كل فضيلة
+فرد المحاسن والمفاخر كلها
+ملك اذا وافى البلاد تارجت
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r_b-2" custom="structure {type:MainZone;}">
+      <Coords points="57,110 363,96 362,269 66,277 57,110"/>
+      <TextLine id="l_b-5">
+        <Coords points="52,140 52,154 117,140 197,148 268,134 342,141 356,126 353,103 241,100 128,114 51,109 52,140"/>
+        <Baseline points="53,141 202,133 357,127"/>
+        <TextEquiv>
+          <Unicode>ورماهم بالذل والاتعاس</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-6">
+        <Coords points="61,179 97,188 106,179 134,186 222,174 263,184 300,172 332,181 355,165 353,145 308,137 290,149 265,142 239,151 152,142 59,156 61,179"/>
+        <Baseline points="62,180 141,171 356,166"/>
+        <TextEquiv>
+          <Unicode>ليث الحروب معسر الاوطاس</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-7">
+        <Coords points="61,216 68,226 97,220 108,228 121,219 137,228 242,225 252,215 278,223 359,214 359,204 357,182 320,174 259,183 214,176 191,186 114,179 59,191 61,216"/>
+        <Baseline points="62,217 150,208 360,205"/>
+        <TextEquiv>
+          <Unicode>قطب الجمال اخو الندى والباس</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-8">
+        <Coords points="59,260 59,271 109,271 120,259 139,271 181,259 338,264 362,256 361,226 336,218 211,228 59,222 59,260"/>
+        <Baseline points="60,261 126,250 363,250"/>
+        <TextEquiv>
+          <Unicode>منه الوهاد بعاطر الانفاس</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>ورماهم بالذل والاتعاس
+ليث الحروب معسر الاوطاس
+قطب الجمال اخو الندى والباس
+منه الوهاد بعاطر الانفاس
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r_b-3" custom="structure {type:MainZone;}">
+      <Coords points="245,282 578,275 583,332 246,336 245,282"/>
+      <TextLine id="l_b-9">
+        <Coords points="243,316 279,329 550,325 584,320 583,288 568,275 504,276 491,289 401,276 284,287 254,276 242,278 243,316"/>
+        <Baseline points="244,317 389,318 585,316"/>
+        <TextEquiv>
+          <Unicode>وفي الجهة الرابعة</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>وفي الجهة الرابعة
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r_b-4" custom="structure {type:MainZone;}">
+      <Coords points="420,339 721,334 722,493 426,505 420,339"/>
+      <TextLine id="l_b-10">
+        <Coords points="419,366 516,379 536,368 552,378 629,367 708,373 727,358 726,340 702,331 604,343 585,334 530,343 489,336 476,348 419,348 419,366"/>
+        <Baseline points="420,367 728,359"/>
+        <TextEquiv>
+          <Unicode>واذا تطلع بدره من هالة</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-11">
+        <Coords points="421,407 422,421 439,412 564,407 600,415 668,403 709,412 735,396 734,382 702,371 642,382 605,373 573,382 542,376 514,390 450,391 435,379 419,385 421,407"/>
+        <Baseline points="422,408 736,397"/>
+        <TextEquiv>
+          <Unicode>ايامه غرر تجلت كلها</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-12">
+        <Coords points="422,444 440,456 579,453 592,445 687,450 726,445 727,437 725,413 714,409 482,427 431,415 421,422 422,444"/>
+        <Baseline points="423,445 728,438"/>
+        <TextEquiv>
+          <Unicode>لا زال للمجد السنى يشيده</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-13">
+        <Coords points="422,490 500,499 531,490 599,496 613,486 666,494 682,484 729,490 731,475 728,456 705,448 596,459 579,452 567,465 530,456 493,468 422,462 422,490"/>
+        <Baseline points="423,485 732,476"/>
+        <TextEquiv>
+          <Unicode>ما مال بالغصن النسيم وحببت</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>واذا تطلع بدره من هالة
+ايامه غرر تجلت كلها
+لا زال للمجد السنى يشيده
+ما مال بالغصن النسيم وحببت
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r_b-5" custom="structure {type:MainZone;}">
+      <Coords points="66,352 367,344 368,503 72,515 66,352"/>
+      <TextLine id="l_b-14">
+        <Coords points="67,379 355,378 361,367 357,343 162,342 129,354 67,348 67,379"/>
+        <Baseline points="68,374 362,368"/>
+        <TextEquiv>
+          <Unicode>يعشى سناه نواظر الجلاس</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-15">
+        <Coords points="65,413 81,428 98,428 117,417 182,425 228,413 322,421 367,404 365,378 319,376 314,385 238,379 65,391 65,413"/>
+        <Baseline points="66,414 368,405"/>
+        <TextEquiv>
+          <Unicode>ابهى من الاعياد والاعراس</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-16">
+        <Coords points="67,452 68,465 308,451 342,461 377,450 376,422 134,419 65,426 67,452"/>
+        <Baseline points="68,453 378,446"/>
+        <TextEquiv>
+          <Unicode>ويقيم مبناه على الاسرار</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-17">
+        <Coords points="67,496 68,510 121,499 157,508 193,496 209,507 240,493 263,504 352,500 367,482 364,456 304,465 251,459 240,469 162,462 144,473 65,468 67,496"/>
+        <Baseline points="68,497 368,483"/>
+        <TextEquiv>
+          <Unicode>درر الندا في جيده المياس</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>يعشى سناه نواظر الجلاس
+ابهى من الاعياد والاعراس
+ويقيم مبناه على الاسرار
+درر الندا في جيده المياس
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r_b-6" custom="structure {type:MainZone;}">
+      <Coords points="72,527 727,501 728,566 365,574 70,582 72,527"/>
+      <TextLine id="l_b-18">
+        <Coords points="66,564 66,579 85,580 105,571 348,571 392,561 431,570 456,559 488,567 528,556 731,557 731,539 729,510 530,507 512,519 476,510 398,531 358,514 281,530 225,519 191,539 79,539 65,543 66,564"/>
+        <Baseline points="67,565 246,563 502,553 732,540"/>
+        <TextEquiv>
+          <Unicode>وقال بعض الكتاب مما نقش بعضادتي باب في الابواب</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>وقال بعض الكتاب مما نقش بعضادتي باب في الابواب
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r_b-7" custom="structure {type:MainZone;}">
+      <Coords points="424,575 727,570 724,657 428,662 424,575"/>
+      <TextLine id="l_b-19">
+        <Coords points="423,612 732,605 733,576 680,568 656,576 618,570 579,583 535,573 505,573 493,586 423,580 423,612"/>
+        <Baseline points="424,603 734,595"/>
+        <TextEquiv>
+          <Unicode>يا ناظرا بالله قف وتاملن</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-20">
+        <Coords points="425,641 447,653 537,647 549,656 625,655 663,645 726,653 727,615 575,607 553,617 516,610 462,619 442,610 425,619 425,641"/>
+        <Baseline points="426,642 728,637"/>
+        <TextEquiv>
+          <Unicode>واذا نظرت الى الحقيقة فلتقل</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>يا ناظرا بالله قف وتاملن
+واذا نظرت الى الحقيقة فلتقل
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r_b-8" custom="structure {type:MainZone;}">
+      <Coords points="71,589 377,581 377,664 70,671 71,589"/>
+      <TextLine id="l_b-21">
+        <Coords points="64,610 78,623 249,615 298,624 308,614 352,622 380,616 381,607 379,588 299,580 173,590 79,584 63,590 64,610"/>
+        <Baseline points="65,611 382,608"/>
+        <TextEquiv>
+          <Unicode>وانظر الى الحسن البديع الاكمل</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-22">
+        <Coords points="72,656 72,671 109,662 231,666 249,656 345,661 372,651 371,622 291,624 264,615 222,624 174,619 134,633 92,626 71,636 72,656"/>
+        <Baseline points="73,657 373,645"/>
+        <TextEquiv>
+          <Unicode>السر في السكان لا في المنزل</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>وانظر الى الحسن البديع الاكمل
+السر في السكان لا في المنزل
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r_b-9" custom="structure {type:MainZone;}">
+      <Coords points="72,682 731,666 727,759 502,764 499,735 80,743 72,682"/>
+      <TextLine id="l_b-23">
+        <Coords points="70,715 70,736 127,725 184,736 271,725 358,733 393,722 421,732 503,721 525,730 559,719 700,724 735,719 736,673 110,680 69,686 70,715"/>
+        <Baseline points="71,716 300,708 564,708 737,707"/>
+        <TextEquiv>
+          <Unicode>وقال الكاتب البليغ ابو فارس عبد العزيز بن محمد بن ابراهيم الفشتالي</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-24">
+        <Coords points="494,751 510,765 741,759 740,725 498,724 494,751"/>
+        <Baseline points="495,752 742,746"/>
+        <TextEquiv>
+          <Unicode>مما نقش في بعض الابواب</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>وقال الكاتب البليغ ابو فارس عبد العزيز بن محمد بن ابراهيم الفشتالي
+مما نقش في بعض الابواب
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r_b-10" custom="structure {type:MainZone;}">
+      <Coords points="428,774 733,767 738,922 433,931 428,774"/>
+      <TextLine id="l_b-25">
+        <Coords points="432,803 440,818 530,807 541,817 586,815 597,804 641,803 682,813 712,812 735,793 733,778 687,779 676,770 545,773 521,784 503,776 482,786 431,782 432,803"/>
+        <Baseline points="433,804 736,794"/>
+        <TextEquiv>
+          <Unicode>هذي وفود السعد نحويي تنتمي</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-26">
+        <Coords points="432,842 432,850 465,848 483,859 499,847 559,856 650,853 662,843 710,850 737,834 735,812 650,805 588,816 445,811 431,818 432,842"/>
+        <Baseline points="433,843 738,835"/>
+        <TextEquiv>
+          <Unicode>وسمت الى عرفان عرفك مثل ما</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-27">
+        <Coords points="429,882 430,898 570,885 627,891 639,882 739,887 739,854 714,846 668,857 473,854 428,863 429,882"/>
+        <Baseline points="430,883 740,873"/>
+        <TextEquiv>
+          <Unicode>خضت بمصراع السعود بشائر</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-28">
+        <Coords points="430,923 442,933 513,924 542,934 637,932 651,921 739,917 737,884 653,896 630,888 616,901 596,887 560,888 522,904 468,904 453,893 428,902 430,923"/>
+        <Baseline points="431,924 740,915"/>
+        <TextEquiv>
+          <Unicode>اولى بصنع ان تقول وولا تبل</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>هذي وفود السعد نحويي تنتمي
+وسمت الى عرفان عرفك مثل ما
+خضت بمصراع السعود بشائر
+اولى بصنع ان تقول وولا تبل
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r_b-11" custom="structure {type:MainZone;}">
+      <Coords points="73,788 382,779 385,937 83,943 73,788"/>
+      <TextLine id="l_b-29">
+        <Coords points="76,814 76,829 167,827 182,816 248,824 320,811 371,821 393,810 391,763 74,770 76,814"/>
+        <Baseline points="77,815 394,805"/>
+        <TextEquiv>
+          <Unicode>وطلائع البشرى لبابى ترتمى</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-30">
+        <Coords points="74,856 75,873 117,859 172,869 191,856 213,867 248,864 272,851 342,861 352,851 383,856 384,840 382,818 351,813 289,826 246,819 233,829 220,821 153,824 134,835 96,828 73,836 74,856"/>
+        <Baseline points="75,857 385,841"/>
+        <TextEquiv>
+          <Unicode>يسمو الحجيج الى سقاية زمزم</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-31">
+        <Coords points="77,897 78,917 115,908 155,913 172,900 219,907 248,896 271,907 297,892 385,890 385,879 383,859 367,851 322,864 275,856 225,869 204,859 189,871 141,862 76,877 77,897"/>
+        <Baseline points="78,898 386,880"/>
+        <TextEquiv>
+          <Unicode>لاحت على السرفاد مثل الانجم</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-32">
+        <Coords points="81,933 136,939 381,923 379,907 328,895 202,907 185,899 164,914 80,916 81,933"/>
+        <Baseline points="82,934 382,924"/>
+        <TextEquiv>
+          <Unicode>فبديع احمد جنة المتنعم</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>وطلائع البشرى لبابى ترتمى
+يسمو الحجيج الى سقاية زمزم
+لاحت على السرفاد مثل الانجم
+فبديع احمد جنة المتنعم
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r_b-12" custom="structure {type:MainZone;}">
+      <Coords points="79,949 744,928 740,1086 456,1091 453,1068 83,1068 79,949"/>
+      <TextLine id="l_b-33">
+        <Coords points="74,968 74,984 420,968 450,976 545,964 699,970 739,953 736,921 690,935 636,927 316,943 261,933 73,937 74,968"/>
+        <Baseline points="75,969 201,968 478,965 740,954"/>
+        <TextEquiv>
+          <Unicode>قال الفشتالي لما عرضتها عليه استحستنها الدانة كره لفظة الجنة وتغير</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-34">
+        <Coords points="74,1013 74,1029 209,1026 222,1016 287,1023 309,1015 403,1021 416,1012 544,1017 572,1007 626,1014 686,1004 707,1013 737,994 736,973 717,966 608,967 559,978 537,968 499,980 455,970 389,983 237,976 220,987 74,987 74,1013"/>
+        <Baseline points="75,1014 198,1014 353,1004 738,995"/>
+        <TextEquiv>
+          <Unicode>عليها كثيرا كان الفراغ من بناء البديع عام اثنين والف وفي تاريخه يقول</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-35">
+        <Coords points="76,1050 84,1066 128,1060 182,1069 474,1060 557,1047 628,1054 730,1043 730,1035 727,1004 117,1023 74,1027 76,1050"/>
+        <Baseline points="77,1051 151,1053 298,1048 731,1036"/>
+        <TextEquiv>
+          <Unicode>الوزير الفقيه الاديب القائد ابو الحسن علي بن منصور الشيظمي وهو مما نقش</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-36">
+        <Coords points="458,1077 461,1093 741,1085 742,1050 699,1043 686,1051 529,1048 456,1058 458,1077"/>
+        <Baseline points="459,1078 745,1069"/>
+        <TextEquiv>
+          <Unicode>في باب الرخام احد ابواب البديع</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>قال الفشتالي لما عرضتها عليه استحستنها الدانة كره لفظة الجنة وتغير
+عليها كثيرا كان الفراغ من بناء البديع عام اثنين والف وفي تاريخه يقول
+الوزير الفقيه الاديب القائد ابو الحسن علي بن منصور الشيظمي وهو مما نقش
+في باب الرخام احد ابواب البديع
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

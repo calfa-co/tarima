@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Calfa</Creator>
+        <Created>2023-02-02T09:09:11Z</Created>
+        <LastChange>2023-03-15T15:44:18.764+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="BULAC_RES_MON_4_3423_0038.jpg" imageWidth="913" imageHeight="1417">
+        <TextRegion id="r_b-2" custom="structure {type:MainZone;}">
+            <Coords points="159,206 817,204 818,1241 160,1241 159,206"/>
+            <TextLine id="l_b-2">
+                <Coords points="181,204 794,204 794,256 181,256 181,204"/>
+                <Baseline points="182,241 715,239 795,235"/>
+                <TextEquiv>
+                    <Unicode>الحاضرين بها وبانفصال موكب القبول خرج فخامته من موقف السكة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-3">
+                <Coords points="181,257 794,257 794,304 181,304 181,257"/>
+                <Baseline points="183,288 795,282"/>
+                <TextEquiv>
+                    <Unicode>الحديد فصدحت لديه المويسقى بالنشيد الوطني واطلقت القلاع مائة طلقة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-4">
+                <Coords points="183,306 795,306 795,354 183,354 183,306"/>
+                <Baseline points="185,339 796,332"/>
+                <TextEquiv>
+                    <Unicode>وطلقة مدفعية اشعارا بالسلام عليه واذاك تقدم فخامته نحو جهة المعسكر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-5">
+                <Coords points="182,357 794,357 794,402 182,402 182,357"/>
+                <Baseline points="184,385 795,381"/>
+                <TextEquiv>
+                    <Unicode>الفرنساوى واستعرض الجيوش الضاربة هنالك تكرم ببعض الاوسمة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-6">
+                <Coords points="181,406 793,406 793,454 181,454 181,406"/>
+                <Baseline points="183,442 307,434 794,430"/>
+                <TextEquiv>
+                    <Unicode>من درجات مختلفة على بعض الضباط والعساكر ثم توجه للفطور ومن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-7">
+                <Coords points="181,452 796,452 796,501 181,501 181,452"/>
+                <Baseline points="183,486 797,479"/>
+                <TextEquiv>
+                    <Unicode>بعده قصد سراية المجلس البلدي بطولون وكانت رباع المدينة وشوارعها</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-8">
+                <Coords points="179,500 796,500 796,551 179,551 179,500"/>
+                <Baseline points="181,535 337,532 797,528"/>
+                <TextEquiv>
+                    <Unicode>مزدانة بالرايات وبالاكاليل والناس في جدل وهيام لشدة فرحهم بالرئيس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-9">
+                <Coords points="185,551 795,551 795,597 185,597 185,551"/>
+                <Baseline points="187,584 416,578 796,578"/>
+                <TextEquiv>
+                    <Unicode>الوقر والمحبوب فحياه عند دخوله للسرايا البلدية شيخ مدينة طولون</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-10">
+                <Coords points="182,599 796,599 796,644 182,644 182,599"/>
+                <Baseline points="184,630 797,625"/>
+                <TextEquiv>
+                    <Unicode>وخطب لديه خطابا حماسيا اشار فيه لتوقد نيران الغيرة والحمية في قلوب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-11">
+                <Coords points="181,648 795,648 795,695 181,695 181,648"/>
+                <Baseline points="183,681 283,677 796,673"/>
+                <TextEquiv>
+                    <Unicode>الفرنساويين وتعلقهم تعلقا وثيقا بالنظامات الجمهورية التي يستميتون</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-12">
+                <Coords points="181,696 793,696 793,743 181,743 181,696"/>
+                <Baseline points="182,728 794,724"/>
+                <TextEquiv>
+                    <Unicode>دونها فاعجب فخامة الرئيس بهذا الخطاب الوطني المبرهن على تمكن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-13">
+                <Coords points="189,744 796,744 796,794 189,794 189,744"/>
+                <Baseline points="190,779 797,771"/>
+                <TextEquiv>
+                    <Unicode>النظام االجمهوري من المهج والقلوب وقال ان في جعل طولون مركزا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-14">
+                <Coords points="185,791 796,791 796,843 185,843 185,791"/>
+                <Baseline points="187,824 797,820"/>
+                <TextEquiv>
+                    <Unicode>افتتاحيا لسياحته الافريقية معنى لطيفا يرمي لما لفرنسا من العناية بهذا الثغر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-15">
+                <Coords points="473,840 797,840 797,890 473,890 473,840"/>
+                <Baseline points="475,872 798,869"/>
+                <TextEquiv>
+                    <Unicode>المنيع العزيز باساطيله ذات القوة والباس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-16">
+                <Coords points="185,889 753,889 753,939 185,939 185,889"/>
+                <Baseline points="186,923 441,919 754,920"/>
+                <TextEquiv>
+                    <Unicode>وبعد ان بارح فخامته المجلس البلدي قصد ساحل المرسى فركب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-17">
+                <Coords points="181,938 806,938 806,986 181,986 181,938"/>
+                <Baseline points="183,970 700,968 807,967"/>
+                <TextEquiv>
+                    <Unicode>على ظهر نسافة حربية بصحبة وزارئه وحاشيته وقصد الدارعة المسماة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-18">
+                <Coords points="183,990 796,990 796,1035 183,1035 183,990"/>
+                <Baseline points="185,1019 797,1015"/>
+                <TextEquiv>
+                    <Unicode>الحق اذاك كانت كل السفن الراسية بمياه الثغر من حربية وتجارية</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-19">
+                <Coords points="183,1040 795,1040 795,1084 183,1084 183,1040"/>
+                <Baseline points="184,1066 796,1066"/>
+                <TextEquiv>
+                    <Unicode>تخفق على اعاليها رايات الزينة والافراح وعند ما وطات قدمه متن تلك</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-20">
+                <Coords points="185,1088 797,1088 797,1132 185,1132 185,1088"/>
+                <Baseline points="186,1115 798,1113"/>
+                <TextEquiv>
+                    <Unicode>الدارعة اخفق لمندانها فوق عمودها الاعلى راية رئيس الجمهورية وهذه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-21">
+                <Coords points="185,1135 796,1135 796,1180 185,1180 185,1135"/>
+                <Baseline points="187,1167 426,1162 797,1163"/>
+                <TextEquiv>
+                    <Unicode>الراية الخاصة بفخامة متولي الرئاسة هي الراية المثلثة الالوان بعينها سوى</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-22">
+                <Coords points="185,1184 796,1184 796,1239 185,1239 185,1184"/>
+                <Baseline points="187,1212 797,1215"/>
+                <TextEquiv>
+                    <Unicode>ان فوقها بالقلم الغليظ وباحرف ذهبية رمزا يشير لاسم صاحب الرئاسة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>الحاضرين بها وبانفصال موكب القبول خرج فخامته من موقف السكة
+الحديد فصدحت لديه المويسقى بالنشيد الوطني واطلقت القلاع مائة طلقة
+وطلقة مدفعية اشعارا بالسلام عليه واذاك تقدم فخامته نحو جهة المعسكر
+الفرنساوى واستعرض الجيوش الضاربة هنالك تكرم ببعض الاوسمة
+من درجات مختلفة على بعض الضباط والعساكر ثم توجه للفطور ومن
+بعده قصد سراية المجلس البلدي بطولون وكانت رباع المدينة وشوارعها
+مزدانة بالرايات وبالاكاليل والناس في جدل وهيام لشدة فرحهم بالرئيس
+الوقر والمحبوب فحياه عند دخوله للسرايا البلدية شيخ مدينة طولون
+وخطب لديه خطابا حماسيا اشار فيه لتوقد نيران الغيرة والحمية في قلوب
+الفرنساويين وتعلقهم تعلقا وثيقا بالنظامات الجمهورية التي يستميتون
+دونها فاعجب فخامة الرئيس بهذا الخطاب الوطني المبرهن على تمكن
+النظام االجمهوري من المهج والقلوب وقال ان في جعل طولون مركزا
+افتتاحيا لسياحته الافريقية معنى لطيفا يرمي لما لفرنسا من العناية بهذا الثغر
+المنيع العزيز باساطيله ذات القوة والباس
+وبعد ان بارح فخامته المجلس البلدي قصد ساحل المرسى فركب
+على ظهر نسافة حربية بصحبة وزارئه وحاشيته وقصد الدارعة المسماة
+الحق اذاك كانت كل السفن الراسية بمياه الثغر من حربية وتجارية
+تخفق على اعاليها رايات الزينة والافراح وعند ما وطات قدمه متن تلك
+الدارعة اخفق لمندانها فوق عمودها الاعلى راية رئيس الجمهورية وهذه
+الراية الخاصة بفخامة متولي الرئاسة هي الراية المثلثة الالوان بعينها سوى
+ان فوقها بالقلم الغليظ وباحرف ذهبية رمزا يشير لاسم صاحب الرئاسة
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,259 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2023-03-30T13:42:28+00:00</Created>
+  </Metadata>
+  <Page imageFilename="MMSH_IREMAM_ARA_MS_011_000089.jpeg" imageHeight="2845" imageWidth="2134">
+    <TextRegion id="r_b-1" custom="structure {type:MainZone;}">
+      <Coords points="1883,299 689,332 699,437 1883,399 1883,299"/>
+      <TextLine id="l_b-1">
+        <Coords points=""/>
+        <Baseline points="719,403 1261,378 1880,369"/>
+        <TextEquiv>
+          <Unicode>ابو القاسم بن علي الافراني كان رضي الله عنه فقيها عالما عاملا</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>ابو القاسم بن علي الافراني كان رضي الله عنه فقيها عالما عاملا
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r_b-2" custom="structure {type:MainZone;}">
+      <Coords points="1888,512 844,532 850,625 1916,608 1888,512"/>
+      <TextLine id="l_b-2">
+        <Coords points=""/>
+        <Baseline points="840,591 1366,590 1903,584"/>
+        <TextEquiv>
+          <Unicode>ابو القاسم المرابط المتبرك به المدفون باذرع سملالة</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>ابو القاسم المرابط المتبرك به المدفون باذرع سملالة
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    <TextRegion id="r_b-3" custom="structure {type:MainZone;}">
+      <Coords points="1927,1987 1942,1566 1923,1109 1934,725 504,765 460,1583 427,1990 460,2387 1950,2414 1927,1987"/>
+      <TextLine id="l_b-3">
+        <Coords points=""/>
+        <Baseline points="504,823 1207,831 1923,794"/>
+        <TextEquiv>
+          <Unicode>ابو القاسم بن احمد العروف بالغول الفشتالي كان رضي الله عنه فقيها متفننا في العلوم واسع</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-4">
+        <Coords points=""/>
+        <Baseline points="503,876 868,899 1213,896 1923,856"/>
+        <TextEquiv>
+          <Unicode>الباع فيها تولى القضاء زمانا اخذ عن سيديي العربي الفاسي وغيره وله تاليف نظما ونصرا له منظومة</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-5">
+        <Coords points=""/>
+        <Baseline points="511,949 1230,961 1940,913"/>
+        <TextEquiv>
+          <Unicode>في الجمع بين الاحاديث النبوية وكلام الاطباء والحكماء في الطواعين والاولياء نشر بها كتاب الشيخ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-6">
+        <Coords points=""/>
+        <Baseline points="492,1029 1219,1015 1923,995"/>
+        <TextEquiv>
+          <Unicode>الحطاب بذلك وله منظومة في المخمس الخالي الوسط وله شروح للابيات المشهورة في كيفية قسم</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-7">
+        <Coords points=""/>
+        <Baseline points="517,1091 882,1085 1236,1068 1906,1063"/>
+        <TextEquiv>
+          <Unicode>الماء لقواديس الديار وهو شرح لطيف جدا وغير ذلك احذ عنه ابن سعيد المرغثي وغيره توفي رحمه الله</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-8">
+        <Coords points=""/>
+        <Baseline points="1123,1136 1524,1142 1909,1108"/>
+        <TextEquiv>
+          <Unicode>سنة تسع وخمسين والف</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-9">
+        <Coords points=""/>
+        <Baseline points="494,1207 1196,1196 1383,1190 1561,1204 1917,1162"/>
+        <TextEquiv>
+          <Unicode>ابو القاسم بن العالم محمد بن العالم الحافظ عبد الجبار الفكيكي البرزوزي العلامة الشهر</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-10">
+        <Coords points=""/>
+        <Baseline points="463,1263 854,1272 1207,1252 1561,1258 1917,1237"/>
+        <TextEquiv>
+          <Unicode>الولي الصالح القوي الدين كان رضي الله عنه من اكابر العلماء وافاضل الاولياء جال في الافاق واخذ عن</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-11">
+        <Coords points=""/>
+        <Baseline points="463,1337 1241,1317 1945,1303"/>
+        <TextEquiv>
+          <Unicode>علمائها وفضلائها واخذ الناس عنه ومن اجلة شيوخه في الطريق العارف الكبير سيدي محمد بن استاذ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-12">
+        <Coords points=""/>
+        <Baseline points="480,1399 1202,1382 1561,1388 1926,1365"/>
+        <TextEquiv>
+          <Unicode>الطائفة البكرية ابي الحسن بن البكري ويروي عن ابيه عن الشيخ زروق واخذ عن وادده ايضا عن غازي وا</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-13">
+        <Coords points=""/>
+        <Baseline points="487,1459 1264,1453 1558,1450 1943,1427"/>
+        <TextEquiv>
+          <Unicode>الونشريسي والدنوي والسنوسي وابن مرزوق القلصادي وغيرهم وبيتهم اي بني عبد الجبار بفكيك بيت علم</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-14">
+        <Coords points=""/>
+        <Baseline points="877,1526 1198,1520 1403,1529 1943,1493"/>
+        <TextEquiv>
+          <Unicode>ودين وشرف تووفي رحمه الله سنة احدى وعشرين والف</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-15">
+        <Coords points=""/>
+        <Baseline points="466,1551 1210,1593 1557,1577 1931,1574"/>
+        <TextEquiv>
+          <Unicode>ابو عزة بن زيان كان رضي الله عنه غلبت عليه الغيبة توثر عنه كرامات منها انه كان مع جماعة من الفقراء ذات</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-16">
+        <Coords points=""/>
+        <Baseline points="466,1608 1184,1651 1938,1624"/>
+        <TextEquiv>
+          <Unicode>مرة روضة شيخه سيدي مسعود الشراط واخذ في الصلاة على النبي صلى الله علي وسلم فورد عليه حال فعظمت</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-17">
+        <Coords points=""/>
+        <Baseline points="481,1671 1182,1708 1938,1681"/>
+        <TextEquiv>
+          <Unicode>جثته حتى ملئت الروضة وخرجت عنهاا قال المخبر ونحن ننظر ذلك عيانا ونتعجب من كبر جثته ومنها ان</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-18">
+        <Coords points=""/>
+        <Baseline points="467,1733 1203,1765 1936,1731"/>
+        <TextEquiv>
+          <Unicode>بعض اصحابه قال اعطاني سبحة وكنت اسبح بها واحافظ عليها للبركة الى ان سافرت بها للحج فحججت</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-19">
+        <Coords points=""/>
+        <Baseline points="447,1797 1172,1824 1917,1791"/>
+        <TextEquiv>
+          <Unicode>ثم رجعت ولا تفارقني فلما كنا ببرقة سقطت مني ولم اشعر بها حتى بعدت بمراحل فلحقني بها اسف</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-20">
+        <Coords points=""/>
+        <Baseline points="463,1859 1184,1881 1930,1840"/>
+        <TextEquiv>
+          <Unicode>عظيم وحزن شديد فبينما امشي فاذا بسيدي ابي عزة وقف بين يدي وسلمت عليه وظننت انه</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-21">
+        <Coords points=""/>
+        <Baseline points="483,1909 837,1934 1201,1938 1928,1917"/>
+        <TextEquiv>
+          <Unicode>يريد الحج فناولني السبحة بعينها وقال لي حزنت على سقوطها ثم غاب عنه فطلبته ولم اره فلما دخلنا</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-22">
+        <Coords points=""/>
+        <Baseline points="463,1957 818,1993 1193,1988 1916,1985"/>
+        <TextEquiv>
+          <Unicode>فاس سالته عنه فقالوا ما فقدناه قط وكرامته كثيرة اخذ عن سيدي مسعود الشراط وغيره توفي رحمه الله سنة</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-23">
+        <Coords points=""/>
+        <Baseline points="797,2035 1932,2039"/>
+        <TextEquiv>
+          <Unicode>ست وسبعين والف ودفن قريبا من ضريح شيخ المذكور</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-24">
+        <Coords points=""/>
+        <Baseline points="444,2054 1163,2110 1932,2084"/>
+        <TextEquiv>
+          <Unicode>ابو القاسم بن احمد بن اللوشة السفياني كان رضي الله عنه من العارفين بالله ومن اهل الاحوال</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-25">
+        <Coords points=""/>
+        <Baseline points="469,2125 1182,2160 1926,2161"/>
+        <TextEquiv>
+          <Unicode>الصادقة والشطحات العرفانية والشوقية وكان اولا من فرسان قبيلته وشجعانهم ثم جذبته</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-26">
+        <Coords points=""/>
+        <Baseline points="459,2173 815,2198 1174,2207 1560,2226 1924,2212"/>
+        <TextEquiv>
+          <Unicode>العناية الربانية فهام على وجه في البرية وغاب عن اهله وصار يالف الوحش ويانس بالخلوة</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-27">
+        <Coords points=""/>
+        <Baseline points="469,2235 1205,2271 1933,2264"/>
+        <TextEquiv>
+          <Unicode>سنة او سنتين او اكثر فاذا اخبر مخبر اهله بصفة ركبوا في طلبه فاذا اتوا به مكث عندهم قليلا</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-28">
+        <Coords points=""/>
+        <Baseline points="487,2282 853,2307 1212,2328 1579,2328 1933,2312"/>
+        <TextEquiv>
+          <Unicode>ثم عاد لمثل ذلك هكذا حاله زمانا طويلا ثم رجع لوطنه واستقر في يجالس الفقراء فاذا ورد</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-29">
+        <Coords points=""/>
+        <Baseline points="529,2343 1250,2380 1946,2371"/>
+        <TextEquiv>
+          <Unicode>عليه الحال انقبض وقاموا عنه وقدد يمزق ثيابه عنه ومع ذلك لا ترى عورته قط في احواله</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>ابو القاسم بن احمد العروف بالغول الفشتالي كان رضي الله عنه فقيها متفننا في العلوم واسع
+الباع فيها تولى القضاء زمانا اخذ عن سيديي العربي الفاسي وغيره وله تاليف نظما ونصرا له منظومة
+في الجمع بين الاحاديث النبوية وكلام الاطباء والحكماء في الطواعين والاولياء نشر بها كتاب الشيخ
+الحطاب بذلك وله منظومة في المخمس الخالي الوسط وله شروح للابيات المشهورة في كيفية قسم
+الماء لقواديس الديار وهو شرح لطيف جدا وغير ذلك احذ عنه ابن سعيد المرغثي وغيره توفي رحمه الله
+سنة تسع وخمسين والف
+ابو القاسم بن العالم محمد بن العالم الحافظ عبد الجبار الفكيكي البرزوزي العلامة الشهر
+الولي الصالح القوي الدين كان رضي الله عنه من اكابر العلماء وافاضل الاولياء جال في الافاق واخذ عن
+علمائها وفضلائها واخذ الناس عنه ومن اجلة شيوخه في الطريق العارف الكبير سيدي محمد بن استاذ
+الطائفة البكرية ابي الحسن بن البكري ويروي عن ابيه عن الشيخ زروق واخذ عن وادده ايضا عن غازي وا
+الونشريسي والدنوي والسنوسي وابن مرزوق القلصادي وغيرهم وبيتهم اي بني عبد الجبار بفكيك بيت علم
+ودين وشرف تووفي رحمه الله سنة احدى وعشرين والف
+ابو عزة بن زيان كان رضي الله عنه غلبت عليه الغيبة توثر عنه كرامات منها انه كان مع جماعة من الفقراء ذات
+مرة روضة شيخه سيدي مسعود الشراط واخذ في الصلاة على النبي صلى الله علي وسلم فورد عليه حال فعظمت
+جثته حتى ملئت الروضة وخرجت عنهاا قال المخبر ونحن ننظر ذلك عيانا ونتعجب من كبر جثته ومنها ان
+بعض اصحابه قال اعطاني سبحة وكنت اسبح بها واحافظ عليها للبركة الى ان سافرت بها للحج فحججت
+ثم رجعت ولا تفارقني فلما كنا ببرقة سقطت مني ولم اشعر بها حتى بعدت بمراحل فلحقني بها اسف
+عظيم وحزن شديد فبينما امشي فاذا بسيدي ابي عزة وقف بين يدي وسلمت عليه وظننت انه
+يريد الحج فناولني السبحة بعينها وقال لي حزنت على سقوطها ثم غاب عنه فطلبته ولم اره فلما دخلنا
+فاس سالته عنه فقالوا ما فقدناه قط وكرامته كثيرة اخذ عن سيدي مسعود الشراط وغيره توفي رحمه الله سنة
+ست وسبعين والف ودفن قريبا من ضريح شيخ المذكور
+ابو القاسم بن احمد بن اللوشة السفياني كان رضي الله عنه من العارفين بالله ومن اهل الاحوال
+الصادقة والشطحات العرفانية والشوقية وكان اولا من فرسان قبيلته وشجعانهم ثم جذبته
+العناية الربانية فهام على وجه في البرية وغاب عن اهله وصار يالف الوحش ويانس بالخلوة
+سنة او سنتين او اكثر فاذا اخبر مخبر اهله بصفة ركبوا في طلبه فاذا اتوا به مكث عندهم قليلا
+ثم عاد لمثل ذلك هكذا حاله زمانا طويلا ثم رجع لوطنه واستقر في يجالس الفقراء فاذا ورد
+عليه الحال انقبض وقاموا عنه وقدد يمزق ثيابه عنه ومع ذلك لا ترى عورته قط في احواله
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

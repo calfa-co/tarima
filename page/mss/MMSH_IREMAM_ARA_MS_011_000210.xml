@@ -1,0 +1,231 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2023-03-30T13:43:24+00:00</Created>
+  </Metadata>
+  <Page imageFilename="MMSH_IREMAM_ARA_MS_011_000210.jpeg" imageHeight="2845" imageWidth="2134">
+    <TextRegion id="r_b-1" custom="structure {type:MainZone;}">
+      <Coords points="1906,1385 1900,853 1861,338 281,321 294,1300 271,1572 271,1843 265,2415 1951,2409 1906,1385"/>
+      <TextLine id="l_b-1">
+        <Coords points=""/>
+        <Baseline points="272,382 1096,429 1856,413"/>
+        <TextEquiv>
+          <Unicode>قم الى تلك الفرس فقل لها لا تركه يركب فقال لها ذلك فتمنعت عليه واستصعبت</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-2">
+        <Coords points=""/>
+        <Baseline points="302,452 690,480 1071,500 1883,493"/>
+        <TextEquiv>
+          <Unicode>وصارت كالكلب الكلب حتى ايس الرجل من قربها ثم رجع الى الشيخ واذعن له واعترف</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-3">
+        <Coords points=""/>
+        <Baseline points="302,548 806,570 1100,593 1878,570"/>
+        <TextEquiv>
+          <Unicode>بالحق فقال لهم قولوا للفرس تسكن فسكنت وركبها والتقى يوما مع سيدي سعيد بن</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-4">
+        <Coords points=""/>
+        <Baseline points="347,621 1128,667 1516,675 1878,643"/>
+        <TextEquiv>
+          <Unicode>ابي بكر دفين مكناسة كلاهما راكب في اصاحبه فترجل سيدي سعيد عن فرسه فسلم على</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-5">
+        <Coords points=""/>
+        <Baseline points="304,689 1145,754 1524,746 1878,706"/>
+        <TextEquiv>
+          <Unicode>سيدي عمر ولم ينزل له سيدي عمر فكان اصحاب سيدي سعيد وجدوا في انفسهم من ذلك فعرف</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-6">
+        <Coords points=""/>
+        <Baseline points="311,780 1103,831 1510,825 1900,785"/>
+        <TextEquiv>
+          <Unicode>سيدي سعيد ذلك فقال لهم جزى الله سيدي عمر عنا خيرا اذ لم ينزل لنا فلو نزل لنا لم</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-7">
+        <Coords points=""/>
+        <Baseline points="294,856 732,899 919,907 1111,904 1533,899 1895,864"/>
+        <TextEquiv>
+          <Unicode>يمش احد منا بكسائه يعني الاحوال وانهم يسلبونها رضي الله عنهم ويذكر سيدي</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-8">
+        <Coords points=""/>
+        <Baseline points="285,938 1120,989 1883,966"/>
+        <TextEquiv>
+          <Unicode>محمد المطرفي العيسوي عوض سيدي سعيد والله اعلم فلما قال السلطان ابو العباس احمد</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-9">
+        <Coords points=""/>
+        <Baseline points="296,1040 526,1034 732,1054 1122,1060 1889,1040"/>
+        <TextEquiv>
+          <Unicode>الاعرج واخوه ابو عبد الله محمد الشيخ وكان بينهما وبين بني مرين من الحروب ما كان</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-10">
+        <Coords points=""/>
+        <Baseline points="302,1108 1100,1153 1533,1133 1886,1125"/>
+        <TextEquiv>
+          <Unicode>دخل الناس بينهم بالصلح وقسمت البلاد فوجها بذلك الى السلطان جماعة</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-11">
+        <Coords points=""/>
+        <Baseline points="305,1201 724,1218 984,1229 1122,1241 1889,1196"/>
+        <TextEquiv>
+          <Unicode>من اعيان الوقت منهم سيدي عمر الخطاب صاحب الترجمة وسيدي ابو الرواين</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-12">
+        <Coords points=""/>
+        <Baseline points="313,1263 1125,1320 1878,1286"/>
+        <TextEquiv>
+          <Unicode>فجعلوا يوصون سيدي ابا الرواين بالسكوت ويقولون له انك يا سيدي رجل ذو قلق و</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-13">
+        <Coords points=""/>
+        <Baseline points="311,1360 1137,1391 1893,1355"/>
+        <TextEquiv>
+          <Unicode>انزعاج فالزم السكوت وامتنعا من مساعدتهم على ما ارادوا فحلف صاحب الترجمة</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-14">
+        <Coords points=""/>
+        <Baseline points="268,1425 1100,1470 1889,1453"/>
+        <TextEquiv>
+          <Unicode>لا دخلوها حتى مات بعد مدة فكان بعضهم يقول لو ان بني مرين يعرفون شيئا ما دفنوا</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-15">
+        <Coords points=""/>
+        <Baseline points="288,1509 1134,1555 1903,1521"/>
+        <TextEquiv>
+          <Unicode>سيدي عمر الخطاب يعن ولتركوه في تابوت على وجه الارض لانه حلف لا دخلوها اولئك</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-16">
+        <Coords points=""/>
+        <Baseline points="927,1614 1417,1614 1661,1604 1773,1611 1906,1594"/>
+        <TextEquiv>
+          <Unicode>السلاطين ما دام على وجه الارض رضي الله عنه ونفعنا به</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-17">
+        <Coords points=""/>
+        <Baseline points="319,1600 749,1659 1137,1665 1533,1685 1907,1660"/>
+        <TextEquiv>
+          <Unicode>عمر بن مبارك الحصيني من قليلة حصين بالتصغير ابو حفص دفن خارج مكناسة بين باب</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-18">
+        <Coords points=""/>
+        <Baseline points="299,1682 1128,1750 1917,1727"/>
+        <TextEquiv>
+          <Unicode>عيسى وبين باب القورجة الولي الكبير اخذ عن الشيخ الحارثي عن التباع قال في الدوحة الشيخ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-19">
+        <Coords points=""/>
+        <Baseline points="285,1758 732,1795 1131,1832 1914,1806"/>
+        <TextEquiv>
+          <Unicode>الفقيه الزاهد ولي الله تعلى وكان بمكناسة وبها توفي في العشرة الخامسة يعني من القرن</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-20">
+        <Coords points=""/>
+        <Baseline points="288,1846 1114,1891 1900,1880"/>
+        <TextEquiv>
+          <Unicode>العاشر كان كثير التنسك والانقطاع الى الله تعلى كان ورده ففي كل ليلة ان يختم القرءان العظيم ما</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-21">
+        <Coords points=""/>
+        <Baseline points="268,1920 1120,1973 1917,1940"/>
+        <TextEquiv>
+          <Unicode>بين العشائين في ركعتين ويفتحه في اول ركعة ويختمه في الثانية فاذا سلم علم الناس بدخول</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-22">
+        <Coords points=""/>
+        <Baseline points="294,1996 1100,2041 1917,2021"/>
+        <TextEquiv>
+          <Unicode>وقت العشاء وسمعوا الاذان في الحين مع ان اذانهم بالالات والتوقيت وكان فصيحا</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-23">
+        <Coords points=""/>
+        <Baseline points="297,2069 1105,2103 1937,2081"/>
+        <TextEquiv>
+          <Unicode>يرتله ترتيلا وهي خصوصية ربانية لا ريب ويحكى ان انسانا بلغه ذلك فكذب به فجاءه فقال لي</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-24">
+        <Coords points=""/>
+        <Baseline points="314,2140 1125,2166 1936,2165"/>
+        <TextEquiv>
+          <Unicode>الشيخ هات اذنك فقرا له القرءان كله حرفا حرفا في اذنه فيي ساعة قليلة وكان رضي الله عنه يزور</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-25">
+        <Coords points=""/>
+        <Baseline points="290,2212 720,2219 1117,2233 1557,2236 1938,2212"/>
+        <TextEquiv>
+          <Unicode>شيخ المشائخ ابا يعزي في كل سنة مرة يمشي اليه حافيا من مكناسة مسافة يومين للمجد</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-26">
+        <Coords points=""/>
+        <Baseline points="275,2291 1108,2295 1917,2300"/>
+        <TextEquiv>
+          <Unicode>ويقول من زار هذا الشيخ وسال الله تعلى عند قبره حاجة واحدة في كل زورة فانها تقضى</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-27">
+        <Coords points=""/>
+        <Baseline points="275,2365 694,2352 1103,2357 1519,2376 1940,2369"/>
+        <TextEquiv>
+          <Unicode>له على القطع ويحكى انه اشار على بعض الطلبة الاخذين عنه بقراءة دعوة ناوله اياها لتجربة</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>قم الى تلك الفرس فقل لها لا تركه يركب فقال لها ذلك فتمنعت عليه واستصعبت
+وصارت كالكلب الكلب حتى ايس الرجل من قربها ثم رجع الى الشيخ واذعن له واعترف
+بالحق فقال لهم قولوا للفرس تسكن فسكنت وركبها والتقى يوما مع سيدي سعيد بن
+ابي بكر دفين مكناسة كلاهما راكب في اصاحبه فترجل سيدي سعيد عن فرسه فسلم على
+سيدي عمر ولم ينزل له سيدي عمر فكان اصحاب سيدي سعيد وجدوا في انفسهم من ذلك فعرف
+سيدي سعيد ذلك فقال لهم جزى الله سيدي عمر عنا خيرا اذ لم ينزل لنا فلو نزل لنا لم
+يمش احد منا بكسائه يعني الاحوال وانهم يسلبونها رضي الله عنهم ويذكر سيدي
+محمد المطرفي العيسوي عوض سيدي سعيد والله اعلم فلما قال السلطان ابو العباس احمد
+الاعرج واخوه ابو عبد الله محمد الشيخ وكان بينهما وبين بني مرين من الحروب ما كان
+دخل الناس بينهم بالصلح وقسمت البلاد فوجها بذلك الى السلطان جماعة
+من اعيان الوقت منهم سيدي عمر الخطاب صاحب الترجمة وسيدي ابو الرواين
+فجعلوا يوصون سيدي ابا الرواين بالسكوت ويقولون له انك يا سيدي رجل ذو قلق و
+انزعاج فالزم السكوت وامتنعا من مساعدتهم على ما ارادوا فحلف صاحب الترجمة
+لا دخلوها حتى مات بعد مدة فكان بعضهم يقول لو ان بني مرين يعرفون شيئا ما دفنوا
+سيدي عمر الخطاب يعن ولتركوه في تابوت على وجه الارض لانه حلف لا دخلوها اولئك
+السلاطين ما دام على وجه الارض رضي الله عنه ونفعنا به
+عمر بن مبارك الحصيني من قليلة حصين بالتصغير ابو حفص دفن خارج مكناسة بين باب
+عيسى وبين باب القورجة الولي الكبير اخذ عن الشيخ الحارثي عن التباع قال في الدوحة الشيخ
+الفقيه الزاهد ولي الله تعلى وكان بمكناسة وبها توفي في العشرة الخامسة يعني من القرن
+العاشر كان كثير التنسك والانقطاع الى الله تعلى كان ورده ففي كل ليلة ان يختم القرءان العظيم ما
+بين العشائين في ركعتين ويفتحه في اول ركعة ويختمه في الثانية فاذا سلم علم الناس بدخول
+وقت العشاء وسمعوا الاذان في الحين مع ان اذانهم بالالات والتوقيت وكان فصيحا
+يرتله ترتيلا وهي خصوصية ربانية لا ريب ويحكى ان انسانا بلغه ذلك فكذب به فجاءه فقال لي
+الشيخ هات اذنك فقرا له القرءان كله حرفا حرفا في اذنه فيي ساعة قليلة وكان رضي الله عنه يزور
+شيخ المشائخ ابا يعزي في كل سنة مرة يمشي اليه حافيا من مكناسة مسافة يومين للمجد
+ويقول من زار هذا الشيخ وسال الله تعلى عند قبره حاجة واحدة في كل زورة فانها تقضى
+له على القطع ويحكى انه اشار على بعض الطلبة الاخذين عنه بقراءة دعوة ناوله اياها لتجربة
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

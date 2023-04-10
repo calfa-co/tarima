@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Calfa</Creator>
+        <Created>2023-03-13T10:28:07Z</Created>
+        <LastChange>2023-03-15T16:07:58.859+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="BULAC_RES_MON_8_7199_0124.jpg" imageWidth="982" imageHeight="1258">
+        <TextRegion id="r_b-2" custom="structure {type:MainZone;}">
+            <Coords points="121,106 753,97 765,1060 131,1060 121,106"/>
+            <TextLine id="l_b-2">
+                <Coords points="116,93 757,93 757,153 116,153 116,93"/>
+                <Baseline points="118,136 758,120"/>
+                <TextEquiv>
+                    <Unicode>مكان الى يعتبز احد السكرالاكنه ادا وجد بن مهاغلى منه انصت له واغرى ونه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-3">
+                <Coords points="116,129 759,129 759,193 116,193 116,129"/>
+                <Baseline points="118,175 760,156"/>
+                <TextEquiv>
+                    <Unicode>كاب ونع لذاباري جاب سدي يريف الباسى سب كلام بلمة عنة عل هدغ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-4">
+                <Coords points="128,169 751,169 751,225 128,225 128,169"/>
+                <Baseline points="130,210 752,190"/>
+                <TextEquiv>
+                    <Unicode>ونه بكتب اغنى حاب الرحة الي كلا ما بعرمه به بماله ويصف له بالغ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-5">
+                <Coords points="128,206 752,206 752,257 128,257 128,206"/>
+                <Baseline points="130,244 753,231"/>
+                <TextEquiv>
+                    <Unicode>الرجال ويذموه الى صخبته فلما اجابه سدي بونه وتعرف له اغرب بتقومه عليه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-6">
+                <Coords points="127,240 750,240 750,299 127,299 127,240"/>
+                <Baseline points="128,282 751,266"/>
+                <TextEquiv>
+                    <Unicode>وذكر ا حنامنا كد لا فيه من وضب حلب النزعة لحاله وخواغر بننه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-7">
+                <Coords points="511,277 758,277 758,322 511,322 511,277"/>
+                <Baseline points="513,306 759,303"/>
+                <TextEquiv>
+                    <Unicode>من غيره قال صاحب الترجمة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-8">
+                <Coords points="201,315 719,315 719,367 201,367 201,315"/>
+                <Baseline points="202,353 720,340"/>
+                <TextEquiv>
+                    <Unicode>الملب والملكوت/ وخفهم منعوت  اخل الجنروت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-9">
+                <Coords points="203,348 718,348 718,402 203,402 203,348"/>
+                <Baseline points="205,391 719,376"/>
+                <TextEquiv>
+                    <Unicode>ما غيوا عنا/ تنزم السموت على ازلاب ابقر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-10">
+                <Coords points="203,387 715,387 715,440 203,440 203,387"/>
+                <Baseline points="205,426 716,410"/>
+                <TextEquiv>
+                    <Unicode>بادرل يفوت / عناوقتنا ننموس القلوب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-11">
+                <Coords points="203,417 720,417 720,478 203,478 203,417"/>
+                <Baseline points="205,463 721,442"/>
+                <TextEquiv>
+                    <Unicode>ساهد الخبوب  في عالم ايقو  براب بحنو</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-12">
+                <Coords points="205,457 720,457 720,515 205,515 205,457"/>
+                <Baseline points="207,502 721,483"/>
+                <TextEquiv>
+                    <Unicode>ابسرو والجنب  في طيا مكتوب  تحوى الجوب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-13">
+                <Coords points="201,497 718,497 718,548 201,548 201,497"/>
+                <Baseline points="202,534 719,523"/>
+                <TextEquiv>
+                    <Unicode>اللواحد القيون / رباح الصبا تاتى على غبا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-14">
+                <Coords points="205,532 708,532 708,583 205,583 205,532"/>
+                <Baseline points="207,571 709,559"/>
+                <TextEquiv>
+                    <Unicode>وازباب المحب / ما خفاهم حال القلب انببا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-15">
+                <Coords points="202,576 718,576 718,625 202,625 202,576"/>
+                <Baseline points="204,610 719,601"/>
+                <TextEquiv>
+                    <Unicode>مي سرك تربا والروم جاذبا/ في حضرة الجلال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-16">
+                <Coords points="211,612 718,612 718,661 211,661 211,612"/>
+                <Baseline points="212,644 719,635"/>
+                <TextEquiv>
+                    <Unicode>نفجات المحب من رباض العرف / بما لم يزل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-17">
+                <Coords points="218,648 716,648 716,696 218,696 218,648"/>
+                <Baseline points="219,683 717,671"/>
+                <TextEquiv>
+                    <Unicode>روضى زاحيا اذا سقيتونى سراب الرسف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-18">
+                <Coords points="197,680 726,680 726,731 197,731 197,680"/>
+                <Baseline points="199,719 727,705"/>
+                <TextEquiv>
+                    <Unicode>ثم ننا فدوا لنل كما هيا قولوا اللنوى</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-19">
+                <Coords points="211,716 725,716 725,767 211,767 211,716"/>
+                <Baseline points="212,755 726,741"/>
+                <TextEquiv>
+                    <Unicode>ثيج الجوق / القلب انكوى  مرحب الحراق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-20">
+                <Coords points="218,749 722,749 722,800 218,800 218,749"/>
+                <Baseline points="219,789 723,775"/>
+                <TextEquiv>
+                    <Unicode>انفيت البوق  واتركت ما نهوى قالوا في الدوى</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-21">
+                <Coords points="123,784 722,784 722,840 123,840 123,784"/>
+                <Baseline points="124,825 723,810"/>
+                <TextEquiv>
+                    <Unicode>ي راكب ابراق  فبلغ سيدي بدينف خبر هذا انكلام قبل ا يدخل يده</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-22">
+                <Coords points="123,820 767,820 767,870 123,870 123,820"/>
+                <Baseline points="124,859 768,847"/>
+                <TextEquiv>
+                    <Unicode>وانه ناله معرما له بحاله لما بلعة عنه وانه ع ذا انكها له بكتب ايية طابا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-23">
+                <Coords points="118,858 765,858 765,906 118,906 118,858"/>
+                <Baseline points="120,891 766,886"/>
+                <TextEquiv>
+                    <Unicode>بذكر له توحبه ما اراد بكلامه في نانه وانه لين من دابه البحت في الخلق عملة فضا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-24">
+                <Coords points="121,898 771,898 771,944 121,944 121,898"/>
+                <Baseline points="123,929 772,925"/>
+                <TextEquiv>
+                    <Unicode>عن منله ويغلمه بانه ممن يجبه ويحسن الظن به ويعرض عليه حاله على جهة اتبامه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-25">
+                <Coords points="127,930 764,930 764,979 127,979 127,930"/>
+                <Baseline points="128,965 765,957"/>
+                <TextEquiv>
+                    <Unicode>لنفسه لما بلغه عنه من انكاره وتنازل معه في داة كله غاية اشازل ثم دخل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-26">
+                <Coords points="123,966 764,966 764,1019 123,1019 123,966"/>
+                <Baseline points="124,1002 765,993"/>
+                <TextEquiv>
+                    <Unicode>بدا كلامه ما جابه عنه بكلام على وزنه وقاميته مع با بحاله هو نصيحة له</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-27">
+                <Coords points="504,1002 767,1002 767,1052 504,1052 504,1002"/>
+                <Baseline points="506,1035 768,1032"/>
+                <TextEquiv>
+                    <Unicode>وتادية لحن كتابه فقال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مكان الى يعتبز احد السكرالاكنه ادا وجد بن مهاغلى منه انصت له واغرى ونه
+كاب ونع لذاباري جاب سدي يريف الباسى سب كلام بلمة عنة عل هدغ
+ونه بكتب اغنى حاب الرحة الي كلا ما بعرمه به بماله ويصف له بالغ
+الرجال ويذموه الى صخبته فلما اجابه سدي بونه وتعرف له اغرب بتقومه عليه
+وذكر ا حنامنا كد لا فيه من وضب حلب النزعة لحاله وخواغر بننه
+من غيره قال صاحب الترجمة
+الملب والملكوت/ وخفهم منعوت  اخل الجنروت
+ما غيوا عنا/ تنزم السموت على ازلاب ابقر
+بادرل يفوت / عناوقتنا ننموس القلوب
+ساهد الخبوب  في عالم ايقو  براب بحنو
+ابسرو والجنب  في طيا مكتوب  تحوى الجوب
+اللواحد القيون / رباح الصبا تاتى على غبا
+وازباب المحب / ما خفاهم حال القلب انببا
+مي سرك تربا والروم جاذبا/ في حضرة الجلال
+نفجات المحب من رباض العرف / بما لم يزل
+روضى زاحيا اذا سقيتونى سراب الرسف
+ثم ننا فدوا لنل كما هيا قولوا اللنوى
+ثيج الجوق / القلب انكوى  مرحب الحراق
+انفيت البوق  واتركت ما نهوى قالوا في الدوى
+ي راكب ابراق  فبلغ سيدي بدينف خبر هذا انكلام قبل ا يدخل يده
+وانه ناله معرما له بحاله لما بلعة عنه وانه ع ذا انكها له بكتب ايية طابا
+بذكر له توحبه ما اراد بكلامه في نانه وانه لين من دابه البحت في الخلق عملة فضا
+عن منله ويغلمه بانه ممن يجبه ويحسن الظن به ويعرض عليه حاله على جهة اتبامه
+لنفسه لما بلغه عنه من انكاره وتنازل معه في داة كله غاية اشازل ثم دخل
+بدا كلامه ما جابه عنه بكلام على وزنه وقاميته مع با بحاله هو نصيحة له
+وتادية لحن كتابه فقال
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

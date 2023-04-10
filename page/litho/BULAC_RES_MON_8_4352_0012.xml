@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Calfa</Creator>
+        <Created>2023-03-13T10:26:58Z</Created>
+        <LastChange>2023-03-15T15:50:55.395+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="BULAC_RES_MON_8_4352_0012.jpg" imageWidth="982" imageHeight="1335">
+        <TextRegion id="r_b-1" custom="structure {type:TitlePageZone;}">
+            <Coords points="206,170 533,166 536,233 208,239 206,170"/>
+            <TextLine id="l_b-1">
+                <Coords points="213,171 527,171 527,230 213,230 213,171"/>
+                <Baseline points="215,204 528,200"/>
+                <TextEquiv>
+                    <Unicode>بسم الله الرحمن الرحيم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بسم الله الرحمن الرحيم
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_b-2" custom="structure {type:MainZone;}">
+            <Coords points="38,413 673,408 674,1103 39,1109 38,413"/>
+            <TextLine id="l_b-2">
+                <Coords points="60,414 633,414 633,461 60,461 60,414"/>
+                <Baseline points="62,446 634,441"/>
+                <TextEquiv>
+                    <Unicode>الحمد لله الذي جعل في حوادث الايام والسنين اعظم عبرة للعقلاء</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-3">
+                <Coords points="60,453 655,453 655,502 60,502 60,453"/>
+                <Baseline points="61,487 656,479"/>
+                <TextEquiv>
+                    <Unicode>المعتبرين وندب لتقييد اخبار سير الماضين جهابذة من الفضلاء نقادين</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-4">
+                <Coords points="60,494 651,494 651,542 60,542 60,494"/>
+                <Baseline points="61,525 403,522 613,518 652,514"/>
+                <TextEquiv>
+                    <Unicode>ففحصوا عن انباء امم تلك القرون الماضية وتصاريفهم في سيرتهم الحميدة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-5">
+                <Coords points="64,534 654,534 654,579 64,579 64,534"/>
+                <Baseline points="65,565 655,557"/>
+                <TextEquiv>
+                    <Unicode>والعادية فنظموا جواهر سير المحسنين في سلك الاحسان قلائد ونوهوا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-6">
+                <Coords points="62,573 654,573 654,620 62,620 62,573"/>
+                <Baseline points="63,602 655,596"/>
+                <TextEquiv>
+                    <Unicode>بصلاتهم في الدفاتر بما اغنى عن الصلة والعائد وادغموا الضد بعظيم ما</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-7">
+                <Coords points="63,614 655,614 655,658 63,658 63,614"/>
+                <Baseline points="64,643 656,636"/>
+                <TextEquiv>
+                    <Unicode>اجتري من المفاسد وخرق من متعارف العوائد في امهال ذي القدرة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-8">
+                <Coords points="61,649 655,649 655,699 61,699 61,649"/>
+                <Baseline points="63,683 656,674"/>
+                <TextEquiv>
+                    <Unicode>الباهرة على العتاة والتمكين القائل جل ذكره واملي لهم ان كيدي</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-9">
+                <Coords points="60,691 654,691 654,737 60,737 60,691"/>
+                <Baseline points="62,723 655,714"/>
+                <TextEquiv>
+                    <Unicode>متين والشكر له سبحانه على الهام الفضلاء لاثبات تلك الوقائع في</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-10">
+                <Coords points="61,729 655,729 655,776 61,776 61,729"/>
+                <Baseline points="63,762 656,754"/>
+                <TextEquiv>
+                    <Unicode>الكتب والدفاتر والتنبيه على حال من تقدم او تاخر في تلك المآثر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-11">
+                <Coords points="63,774 653,774 653,823 63,823 63,774"/>
+                <Baseline points="64,809 654,798"/>
+                <TextEquiv>
+                    <Unicode>حتى صار النظر فيها والتمتع باخبارها اليهم احب من الآنسة ويرى</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-12">
+                <Coords points="65,816 656,816 656,866 65,866 65,816"/>
+                <Baseline points="67,851 657,841"/>
+                <TextEquiv>
+                    <Unicode>الناظر فيها القرون الماضية حاضرة واعظمهم دارسة فسبحان من وفق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-13">
+                <Coords points="61,857 656,857 656,903 61,903 61,857"/>
+                <Baseline points="63,888 657,881"/>
+                <TextEquiv>
+                    <Unicode>سن شاء بفضله لاقتناء الخصال الحميدة وحسن تصريفه في سيرته المرضية</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-14">
+                <Coords points="64,896 656,896 656,943 64,943 64,896"/>
+                <Baseline points="66,928 657,919"/>
+                <TextEquiv>
+                    <Unicode>الرشيدة احيى بها ذكره على ممر الايام وتعاقب الدهور ولا شك</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-15">
+                <Coords points="70,934 654,934 654,984 70,984 70,934"/>
+                <Baseline points="72,972 125,968 655,958"/>
+                <TextEquiv>
+                    <Unicode>ان نخليد فضائل الفضلاء في الكتب حياة الى يوم النشور فهم وان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-16">
+                <Coords points="66,973 655,973 655,1026 66,1026 66,973"/>
+                <Baseline points="68,1006 656,996"/>
+                <TextEquiv>
+                    <Unicode>بانوا عن الدنيا بالاجسام وفاتوا فيما تركوا فيها من المآثر الحسنة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-17">
+                <Coords points="304,1016 657,1016 657,1061 304,1061 304,1016"/>
+                <Baseline points="306,1042 658,1037"/>
+                <TextEquiv>
+                    <Unicode>احياء ما ماتوا شعر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-18">
+                <Coords points="84,1057 169,1057 169,1105 84,1105 84,1057"/>
+                <Baseline points="85,1084 170,1084"/>
+                <TextEquiv>
+                    <Unicode>انما المرء</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>الحمد لله الذي جعل في حوادث الايام والسنين اعظم عبرة للعقلاء
+المعتبرين وندب لتقييد اخبار سير الماضين جهابذة من الفضلاء نقادين
+ففحصوا عن انباء امم تلك القرون الماضية وتصاريفهم في سيرتهم الحميدة
+والعادية فنظموا جواهر سير المحسنين في سلك الاحسان قلائد ونوهوا
+بصلاتهم في الدفاتر بما اغنى عن الصلة والعائد وادغموا الضد بعظيم ما
+اجتري من المفاسد وخرق من متعارف العوائد في امهال ذي القدرة
+الباهرة على العتاة والتمكين القائل جل ذكره واملي لهم ان كيدي
+متين والشكر له سبحانه على الهام الفضلاء لاثبات تلك الوقائع في
+الكتب والدفاتر والتنبيه على حال من تقدم او تاخر في تلك المآثر
+حتى صار النظر فيها والتمتع باخبارها اليهم احب من الآنسة ويرى
+الناظر فيها القرون الماضية حاضرة واعظمهم دارسة فسبحان من وفق
+سن شاء بفضله لاقتناء الخصال الحميدة وحسن تصريفه في سيرته المرضية
+الرشيدة احيى بها ذكره على ممر الايام وتعاقب الدهور ولا شك
+ان نخليد فضائل الفضلاء في الكتب حياة الى يوم النشور فهم وان
+بانوا عن الدنيا بالاجسام وفاتوا فيما تركوا فيها من المآثر الحسنة
+احياء ما ماتوا شعر
+انما المرء
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

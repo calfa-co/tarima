@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Calfa</Creator>
+        <Created>2023-03-13T10:28:30Z</Created>
+        <LastChange>2023-03-15T16:10:57.340+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="BULAC_RES_MON_8_8967_0028.jpg" imageWidth="982" imageHeight="1406">
+        <TextRegion id="r_b-2" custom="structure {type:MainZone;}">
+            <Coords points="180,154 832,148 841,1244 182,1240 180,154"/>
+            <TextLine id="l_b-2">
+                <Coords points="721,155 806,155 806,196 721,196 721,155"/>
+                <Baseline points="723,178 807,181"/>
+                <TextEquiv>
+                    <Unicode>صحيفة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-3">
+                <Coords points="330,221 808,221 808,274 330,274 330,221"/>
+                <Baseline points="332,256 809,249"/>
+                <TextEquiv>
+                    <Unicode>٧١ / سبب توجه ابن رشد لمدينة مراكش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-4">
+                <Coords points="243,278 803,278 803,335 243,335 243,278"/>
+                <Baseline points="245,317 804,307"/>
+                <TextEquiv>
+                    <Unicode>٧١ / كتاب ابن هود الامير المسلمين على بن يوسف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-5">
+                <Coords points="224,346 810,346 810,403 224,403 224,346"/>
+                <Baseline points="225,384 811,376"/>
+                <TextEquiv>
+                    <Unicode>٧٦ / حرق اهل غرناطة الاحياء للغزالى ودعائه عليهم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-6">
+                <Coords points="337,410 810,410 810,463 337,463 337,410"/>
+                <Baseline points="339,444 811,440"/>
+                <TextEquiv>
+                    <Unicode>٧٨ / ادعاء ابن تومرت انه المهدي المنتظر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-7">
+                <Coords points="324,472 809,472 809,523 324,523 324,472"/>
+                <Baseline points="326,506 810,502"/>
+                <TextEquiv>
+                    <Unicode>٧٩ / اسماء العشرة الذين بايعوا المهدي اولا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-8">
+                <Coords points="289,539 810,539 810,590 289,590 289,539"/>
+                <Baseline points="291,568 811,564"/>
+                <TextEquiv>
+                    <Unicode>٨٠ / ما رتبه المهدي لاصحابه يعلمهم به التوحيد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-9">
+                <Coords points="410,601 805,601 805,649 410,649 410,601"/>
+                <Baseline points="412,631 806,628"/>
+                <TextEquiv>
+                    <Unicode>٨١ / كتاب ابن تومرت الى لمتونة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-10">
+                <Coords points="476,662 809,662 809,714 476,714 476,662"/>
+                <Baseline points="478,697 810,691"/>
+                <TextEquiv>
+                    <Unicode>٨٣ / حصار المهدي لمراكش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-11">
+                <Coords points="367,724 809,724 809,781 367,781 367,724"/>
+                <Baseline points="368,761 810,752"/>
+                <TextEquiv>
+                    <Unicode>٨٤ / نصيحة من اندلسي لابن تاشفين</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-12">
+                <Coords points="535,787 815,787 815,836 535,836 535,787"/>
+                <Baseline points="536,820 816,816"/>
+                <TextEquiv>
+                    <Unicode>٩٣ / سياسة الحروب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-13">
+                <Coords points="422,856 816,856 816,900 422,900 422,856"/>
+                <Baseline points="424,883 817,882"/>
+                <TextEquiv>
+                    <Unicode>٩٨ / يوم منداس ووصف محاربة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-14">
+                <Coords points="525,916 813,916 813,962 525,962 525,916"/>
+                <Baseline points="527,949 814,943"/>
+                <TextEquiv>
+                    <Unicode>١٠٢ / حصار مراكش</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-15">
+                <Coords points="422,975 816,975 816,1029 422,1029 422,975"/>
+                <Baseline points="424,1011 817,1005"/>
+                <TextEquiv>
+                    <Unicode>١٠٤ / احصائية لقتلى ذلك الحصار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-16">
+                <Coords points="319,1038 813,1038 813,1093 319,1093 319,1038"/>
+                <Baseline points="321,1077 814,1068"/>
+                <TextEquiv>
+                    <Unicode>١١٢ / وفود اهل الاندلس لبيعة عبد المومن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-17">
+                <Coords points="297,1105 812,1105 812,1158 297,1158 297,1105"/>
+                <Baseline points="299,1134 813,1133"/>
+                <TextEquiv>
+                    <Unicode>١١٣ / غزو عبد المومن لافريقيا واستلاؤه عليها</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-18">
+                <Coords points="458,1169 816,1169 816,1222 458,1222 458,1169"/>
+                <Baseline points="460,1199 817,1196"/>
+                <TextEquiv>
+                    <Unicode>١١٤ / احترام عبد المومن العلماء</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>٧١ / سبب توجه ابن رشد لمدينة مراكش
+٧١ / كتاب ابن هود الامير المسلمين على بن يوسف
+٧٦ / حرق اهل غرناطة الاحياء للغزالى ودعائه عليهم
+٧٨ / ادعاء ابن تومرت انه المهدي المنتظر
+٧٩ / اسماء العشرة الذين بايعوا المهدي اولا
+٨٠ / ما رتبه المهدي لاصحابه يعلمهم به التوحيد
+٨١ / كتاب ابن تومرت الى لمتونة
+٨٣ / حصار المهدي لمراكش
+٨٤ / نصيحة من اندلسي لابن تاشفين
+٩٣ / سياسة الحروب
+٩٨ / يوم منداس ووصف محاربة
+١٠٢ / حصار مراكش
+١٠٤ / احصائية لقتلى ذلك الحصار
+١١٢ / وفود اهل الاندلس لبيعة عبد المومن
+١١٣ / غزو عبد المومن لافريقيا واستلاؤه عليها
+١١٤ / احترام عبد المومن العلماء
+صحيفة
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

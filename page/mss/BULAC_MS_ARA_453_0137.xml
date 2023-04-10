@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2023-02-16T08:45:36+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_MS_ARA_453_0137.jpg" imageHeight="1156" imageWidth="982">
+    <TextRegion id="r_b-1" custom="structure {type:MainZone;}">
+      <Coords points="49,135 601,139 604,792 57,778 49,135"/>
+      <TextLine id="l_b-1">
+        <Coords points=""/>
+        <Baseline points="52,164 601,165"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-2">
+        <Coords points=""/>
+        <Baseline points="51,198 601,201"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-3">
+        <Coords points=""/>
+        <Baseline points="51,231 602,233"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-4">
+        <Coords points=""/>
+        <Baseline points="46,268 601,265"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-5">
+        <Coords points=""/>
+        <Baseline points="51,301 602,301"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-6">
+        <Coords points=""/>
+        <Baseline points="53,337 602,334"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-7">
+        <Coords points=""/>
+        <Baseline points="53,375 601,368"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-8">
+        <Coords points=""/>
+        <Baseline points="53,404 600,403"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-9">
+        <Coords points=""/>
+        <Baseline points="53,440 603,440"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-10">
+        <Coords points=""/>
+        <Baseline points="55,477 602,475"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-11">
+        <Coords points=""/>
+        <Baseline points="54,508 602,511"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-12">
+        <Coords points=""/>
+        <Baseline points="56,543 335,542 600,544"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-13">
+        <Coords points=""/>
+        <Baseline points="56,578 602,581"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-14">
+        <Coords points=""/>
+        <Baseline points="55,614 601,619"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-15">
+        <Coords points=""/>
+        <Baseline points="57,649 601,653"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-16">
+        <Coords points=""/>
+        <Baseline points="53,684 602,690"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-17">
+        <Coords points=""/>
+        <Baseline points="55,718 601,728"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-18">
+        <Coords points=""/>
+        <Baseline points="57,761 600,767"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Calfa</Creator>
+        <Created>2023-03-13T10:28:05Z</Created>
+        <LastChange>2023-03-15T16:07:46.634+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="BULAC_RES_MON_8_7199_0118.jpg" imageWidth="982" imageHeight="1258">
+        <TextRegion id="r_b-2" custom="structure {type:MainZone;}">
+            <Coords points="130,142 743,135 757,1079 136,1086 130,142"/>
+            <TextLine id="l_b-2">
+                <Coords points="220,135 751,135 751,185 220,185 220,135"/>
+                <Baseline points="221,170 521,163 752,163"/>
+                <TextEquiv>
+                    <Unicode>ومنه / اذا ذكرتك يا لا مجد/ نصيب راحا في نفسي</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-3">
+                <Coords points="227,173 643,173 643,221 227,221 227,173"/>
+                <Baseline points="228,208 551,200 644,197"/>
+                <TextEquiv>
+                    <Unicode>الول حيليي محند/ ما كان عزش ولا كن سي</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-4">
+                <Coords points="220,203 752,203 752,256 220,256 220,203"/>
+                <Baseline points="222,243 753,231"/>
+                <TextEquiv>
+                    <Unicode>ومنه / اخب منااهوى/ وانت الخبيب ابي نموى</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-5">
+                <Coords points="227,244 652,244 652,290 227,290 227,244"/>
+                <Baseline points="228,277 653,269"/>
+                <TextEquiv>
+                    <Unicode>ايا حبييى محمد/ ريت حب فيه ذوى</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-6">
+                <Coords points="227,279 748,279 748,328 227,328 227,279"/>
+                <Baseline points="228,312 749,306"/>
+                <TextEquiv>
+                    <Unicode>ومنه/ الرجال ومقوانار/ للباب ما عزفوا غيرك</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-7">
+                <Coords points="222,315 657,315 657,362 222,362 222,315"/>
+                <Baseline points="223,349 658,343"/>
+                <TextEquiv>
+                    <Unicode>ابا حبييي محند / وما علينا اب خيرك</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-8">
+                <Coords points="223,352 749,352 749,397 223,397 223,352"/>
+                <Baseline points="225,383 750,380"/>
+                <TextEquiv>
+                    <Unicode>ومنه قلبى مولع من لع / مجذوب لش تلومنى</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-9">
+                <Coords points="229,387 657,387 657,433 229,433 229,387"/>
+                <Baseline points="231,422 658,414"/>
+                <TextEquiv>
+                    <Unicode>اوا يارب مولاى / اخل المحب فاتونى</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-10">
+                <Coords points="232,418 749,418 749,473 232,473 232,418"/>
+                <Baseline points="234,461 750,448"/>
+                <TextEquiv>
+                    <Unicode>ومنه يخذزن يجبوى نزغو / ساكنفي ارض اعالى</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-11">
+                <Coords points="234,459 662,459 662,506 234,506 234,459"/>
+                <Baseline points="235,493 663,485"/>
+                <TextEquiv>
+                    <Unicode>ال قضى ربنا كان / في الراس ما يتحى</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-12">
+                <Coords points="232,492 752,492 752,543 232,543 232,492"/>
+                <Baseline points="234,531 537,528 753,522"/>
+                <TextEquiv>
+                    <Unicode>ومنه يجذزب ما اناس بحنون / الحوال هذالبنا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-13">
+                <Coords points="232,532 667,532 667,578 232,578 232,532"/>
+                <Baseline points="234,568 668,563"/>
+                <TextEquiv>
+                    <Unicode>نظرت في الفوح المحفوظ / السابقا سبقتليا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-14">
+                <Coords points="232,565 751,565 751,613 232,613 232,565"/>
+                <Baseline points="233,602 752,596"/>
+                <TextEquiv>
+                    <Unicode>ومنه اذا تسالوا على الخال/ ما ل يشبه ثمالى</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-15">
+                <Coords points="232,602 682,602 682,654 232,654 232,602"/>
+                <Baseline points="234,643 683,635"/>
+                <TextEquiv>
+                    <Unicode>واءاتبالوا على النان/ مقانهم زيت عالى</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-16">
+                <Coords points="236,640 752,640 752,687 236,687 236,640"/>
+                <Baseline points="238,676 753,670"/>
+                <TextEquiv>
+                    <Unicode>ومنه اذا نسالوا على الراق / الراس عزيان ديما</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-17">
+                <Coords points="113,676 679,676 679,729 113,729 113,676"/>
+                <Baseline points="114,718 680,706"/>
+                <TextEquiv>
+                    <Unicode>الرام عليا خراخ  حجبوا ستقيما ومنه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-18">
+                <Coords points="243,711 684,711 684,760 243,760 243,711"/>
+                <Baseline points="245,746 685,737"/>
+                <TextEquiv>
+                    <Unicode>لوذاموا من الحب/ تلفاهم يعذرونى</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-19">
+                <Coords points="113,746 692,746 692,796 113,796 113,746"/>
+                <Baseline points="114,782 693,774"/>
+                <TextEquiv>
+                    <Unicode>الا انهم بين في جب / نعية ولا تسمعومة ومنه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-20">
+                <Coords points="237,781 685,781 685,830 237,830 237,781"/>
+                <Baseline points="239,819 686,811"/>
+                <TextEquiv>
+                    <Unicode>اذا تراونى مرهره / تقولوا ما لي دخيرا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-21">
+                <Coords points="232,811 696,811 696,868 232,868 232,811"/>
+                <Baseline points="234,855 697,842"/>
+                <TextEquiv>
+                    <Unicode>كيف الحجاب المولق / في ننافع ظيرا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-22">
+                <Coords points="239,849 756,849 756,900 239,900 239,849"/>
+                <Baseline points="241,886 757,876"/>
+                <TextEquiv>
+                    <Unicode>ومنها انا عبد ارحمن المخنتن / وانا عقيد الرباعا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-23">
+                <Coords points="116,890 680,890 680,933 116,933 116,890"/>
+                <Baseline points="117,920 681,921"/>
+                <TextEquiv>
+                    <Unicode>في العرب نعطى وناخذ/ وغبيت للنائن ماعا وعنه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-24">
+                <Coords points="227,925 684,925 684,972 227,972 227,925"/>
+                <Baseline points="228,962 685,958"/>
+                <TextEquiv>
+                    <Unicode>نصعد على كل كرسى / نورذ اشرف في المواطن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-25">
+                <Coords points="118,965 681,965 681,1011 118,1011 118,965"/>
+                <Baseline points="119,992 427,992 682,989"/>
+                <TextEquiv>
+                    <Unicode>سرقت على الغرب شمسى / ونسين سير السلاطن ومنه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-26">
+                <Coords points="227,997 687,997 687,1045 227,1045 227,997"/>
+                <Baseline points="228,1033 688,1028"/>
+                <TextEquiv>
+                    <Unicode>انازيين علم التوجيد/ هنا البجور الاتغيى</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-27">
+                <Coords points="232,1035 689,1035 689,1083 232,1083 232,1035"/>
+                <Baseline points="234,1069 690,1062"/>
+                <TextEquiv>
+                    <Unicode>هذا مقام اخل التجريد / الرانفين مع ربى</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ومنه / اذا ذكرتك يا لا مجد/ نصيب راحا في نفسي
+الول حيليي محند/ ما كان عزش ولا كن سي
+ومنه / اخب منااهوى/ وانت الخبيب ابي نموى
+ايا حبييى محمد/ ريت حب فيه ذوى
+ومنه/ الرجال ومقوانار/ للباب ما عزفوا غيرك
+ابا حبييي محند / وما علينا اب خيرك
+ومنه قلبى مولع من لع / مجذوب لش تلومنى
+اوا يارب مولاى / اخل المحب فاتونى
+ومنه يخذزن يجبوى نزغو / ساكنفي ارض اعالى
+ال قضى ربنا كان / في الراس ما يتحى
+ومنه يجذزب ما اناس بحنون / الحوال هذالبنا
+نظرت في الفوح المحفوظ / السابقا سبقتليا
+ومنه اذا تسالوا على الخال/ ما ل يشبه ثمالى
+واءاتبالوا على النان/ مقانهم زيت عالى
+ومنه اذا نسالوا على الراق / الراس عزيان ديما
+الرام عليا خراخ  حجبوا ستقيما ومنه
+لوذاموا من الحب/ تلفاهم يعذرونى
+الا انهم بين في جب / نعية ولا تسمعومة ومنه
+اذا تراونى مرهره / تقولوا ما لي دخيرا
+كيف الحجاب المولق / في ننافع ظيرا
+ومنها انا عبد ارحمن المخنتن / وانا عقيد الرباعا
+في العرب نعطى وناخذ/ وغبيت للنائن ماعا وعنه
+نصعد على كل كرسى / نورذ اشرف في المواطن
+سرقت على الغرب شمسى / ونسين سير السلاطن ومنه
+انازيين علم التوجيد/ هنا البجور الاتغيى
+هذا مقام اخل التجريد / الرانفين مع ربى
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

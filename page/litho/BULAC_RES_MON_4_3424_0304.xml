@@ -1,0 +1,175 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Calfa</Creator>
+    <Created>2023-03-13T10:26:54+00:00</Created>
+  </Metadata>
+  <Page imageFilename="BULAC_RES_MON_4_3424_0304.jpg" imageHeight="1417" imageWidth="915">
+    <TextRegion id="r_b-1" custom="structure {type:MainZone;}">
+      <Coords points="88,190 745,190 744,1236 89,1236 88,190"/>
+      <TextLine id="l_b-1">
+        <Coords points="114,200 725,200 725,244 114,244 114,200"/>
+        <Baseline points="115,230 726,227"/>
+        <TextEquiv>
+          <Unicode>مويسقى الجمعية الناصرية بينما كانت المدافع تبرق وترعد من برج</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-2">
+        <Coords points="107,249 725,249 725,293 107,293 107,249"/>
+        <Baseline points="108,279 726,277"/>
+        <TextEquiv>
+          <Unicode>الجلاز فنزل سموه لرصيف المرسى حيث مدت الزرابي وفرش بيت القمرق</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-3">
+        <Coords points="107,298 727,298 727,343 107,343 107,298"/>
+        <Baseline points="108,325 728,326"/>
+        <TextEquiv>
+          <Unicode>بافخر الرياش وهنالك تلقى سموه مراسم التهنئة والاحترام والولاء من افراد</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-4">
+        <Coords points="107,348 726,348 726,396 107,396 107,348"/>
+        <Baseline points="109,377 727,374"/>
+        <TextEquiv>
+          <Unicode>عائلته الشريفة ثم من الجنرالات والضباط الفرنساويين ثم من اكابر</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-5">
+        <Coords points="107,395 726,395 726,443 107,443 107,395"/>
+        <Baseline points="109,429 727,425"/>
+        <TextEquiv>
+          <Unicode>المتوظفين ثم من اعيان المستقبلين وكان في طليعة هولاء اعضاء مجلس</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-6">
+        <Coords points="107,448 725,448 725,492 107,492 107,448"/>
+        <Baseline points="109,473 726,476"/>
+        <TextEquiv>
+          <Unicode>الشورى من الاهالي النائبين عن حاضرة تونس والقيروان وسوسة</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-7">
+        <Coords points="107,498 726,498 726,540 107,540 107,498"/>
+        <Baseline points="108,523 727,525"/>
+        <TextEquiv>
+          <Unicode>وصفاقس والوطن القبلي وحينئد قامت ضجة هتاف بلغت عنان السماء</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-8">
+        <Coords points="107,546 726,546 726,589 107,589 107,546"/>
+        <Baseline points="109,573 727,575"/>
+        <TextEquiv>
+          <Unicode>وكرر لسان عامة المتفرجين عبارة الله ينصر سيدنا مرارا متوالية بما</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-9">
+        <Coords points="109,595 726,595 726,642 109,642 109,595"/>
+        <Baseline points="111,623 727,625"/>
+        <TextEquiv>
+          <Unicode>كان له اجمل وقع وابلغ تاثير في نفسه الكريمة لمشاهدته عيانا مقدار ما لسموه</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-10">
+        <Coords points="158,644 727,644 727,691 158,691 158,644"/>
+        <Baseline points="159,674 728,674"/>
+        <TextEquiv>
+          <Unicode>من المكانة بقلوب رعيته المتعلقين باذياله تعلق الابن البار بابيه الشفيق</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-11">
+        <Coords points="107,693 693,693 693,737 107,737 107,693"/>
+        <Baseline points="109,723 694,722"/>
+        <TextEquiv>
+          <Unicode>وبعدئذ انتظم موكب سموه فركب جنابه العالي عربته الملوكية وركب</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-12">
+        <Coords points="108,745 729,745 729,785 108,785 108,745"/>
+        <Baseline points="110,773 730,772"/>
+        <TextEquiv>
+          <Unicode>ليساره جناب معتمد السفارة الفخيمة وامامه جناب الجنرال بيستور وركب</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-13">
+        <Coords points="107,800 728,800 728,846 107,846 107,800"/>
+        <Baseline points="109,830 729,828"/>
+        <TextEquiv>
+          <Unicode>في العربة الثانية البرنس سيدي المنصف باي وجناب الوزير الاكبر</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-14">
+        <Coords points="107,855 728,855 728,902 107,902 107,855"/>
+        <Baseline points="109,881 729,884"/>
+        <TextEquiv>
+          <Unicode>وجناب وزير القلم وجناب الكاتب العام وركب في العربات الثالثة</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-15">
+        <Coords points="108,912 728,912 728,955 108,955 108,912"/>
+        <Baseline points="110,941 729,939"/>
+        <TextEquiv>
+          <Unicode>والرابعة حتى العاشرة امراء البيت الحسيني وركب بقية الذوات ورجال</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-16">
+        <Coords points="109,968 730,968 730,1010 109,1010 109,968"/>
+        <Baseline points="110,997 731,997"/>
+        <TextEquiv>
+          <Unicode>المعية والحاشية السنية بالعربات المخصصة لهم وسار الموكب محفوفا بمظاهر</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-17">
+        <Coords points="109,1021 728,1021 728,1068 109,1068 109,1021"/>
+        <Baseline points="111,1054 729,1051"/>
+        <TextEquiv>
+          <Unicode>المهابة والاجلال مخفورا بفرقة من خيالة افريقيا وبفرقة من خيالة البوليس</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-18">
+        <Coords points="109,1080 729,1080 729,1124 109,1124 109,1080"/>
+        <Baseline points="111,1106 730,1108"/>
+        <TextEquiv>
+          <Unicode>وبخيالة الاوجاق فاخترق اسمطة الجيوش الفرنساوية والتونسية مارا بشارع</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-19">
+        <Coords points="113,1138 730,1138 730,1187 113,1187 113,1138"/>
+        <Baseline points="114,1166 731,1166"/>
+        <TextEquiv>
+          <Unicode>بيشور فشارع البحيرة الطويل العريض فشارع باريس الى ان وصل</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="l_b-20">
+        <Coords points="542,1191 730,1191 730,1245 542,1245 542,1191"/>
+        <Baseline points="543,1220 731,1220"/>
+        <TextEquiv>
+          <Unicode>موقف السكة الحديد</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>مويسقى الجمعية الناصرية بينما كانت المدافع تبرق وترعد من برج
+الجلاز فنزل سموه لرصيف المرسى حيث مدت الزرابي وفرش بيت القمرق
+بافخر الرياش وهنالك تلقى سموه مراسم التهنئة والاحترام والولاء من افراد
+عائلته الشريفة ثم من الجنرالات والضباط الفرنساويين ثم من اكابر
+المتوظفين ثم من اعيان المستقبلين وكان في طليعة هولاء اعضاء مجلس
+الشورى من الاهالي النائبين عن حاضرة تونس والقيروان وسوسة
+وصفاقس والوطن القبلي وحينئد قامت ضجة هتاف بلغت عنان السماء
+وكرر لسان عامة المتفرجين عبارة الله ينصر سيدنا مرارا متوالية بما
+كان له اجمل وقع وابلغ تاثير في نفسه الكريمة لمشاهدته عيانا مقدار ما لسموه
+من المكانة بقلوب رعيته المتعلقين باذياله تعلق الابن البار بابيه الشفيق
+وبعدئذ انتظم موكب سموه فركب جنابه العالي عربته الملوكية وركب
+ليساره جناب معتمد السفارة الفخيمة وامامه جناب الجنرال بيستور وركب
+في العربة الثانية البرنس سيدي المنصف باي وجناب الوزير الاكبر
+وجناب وزير القلم وجناب الكاتب العام وركب في العربات الثالثة
+والرابعة حتى العاشرة امراء البيت الحسيني وركب بقية الذوات ورجال
+المعية والحاشية السنية بالعربات المخصصة لهم وسار الموكب محفوفا بمظاهر
+المهابة والاجلال مخفورا بفرقة من خيالة افريقيا وبفرقة من خيالة البوليس
+وبخيالة الاوجاق فاخترق اسمطة الجيوش الفرنساوية والتونسية مارا بشارع
+بيشور فشارع البحيرة الطويل العريض فشارع باريس الى ان وصل
+موقف السكة الحديد
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>

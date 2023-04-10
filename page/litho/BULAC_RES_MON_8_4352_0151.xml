@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Calfa</Creator>
+        <Created>2023-03-13T10:27:00Z</Created>
+        <LastChange>2023-03-15T15:51:04.584+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="BULAC_RES_MON_8_4352_0151.jpg" imageWidth="982" imageHeight="1356">
+        <TextRegion id="r_b-2" custom="structure {type:MainZone;}">
+            <Coords points="279,1124 273,120 919,123 918,1133 279,1124"/>
+            <TextLine id="l_b-2">
+                <Coords points="369,116 855,116 855,167 369,167 369,116"/>
+                <Baseline points="370,148 856,152"/>
+                <TextEquiv>
+                    <Unicode>قد نشرنا صحائف المحزن نشرا / وطوينا العزاء بعدك طيا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-3">
+                <Coords points="367,162 854,162 854,210 367,210 367,162"/>
+                <Baseline points="368,188 855,194"/>
+                <TextEquiv>
+                    <Unicode>واطلنا البكا عليك واني / لعليم ان ليس يرجع شيا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-4">
+                <Coords points="370,203 852,203 852,248 370,248 370,203"/>
+                <Baseline points="372,227 853,232"/>
+                <TextEquiv>
+                    <Unicode>فالى الله من فراق رماني / عنك بعد الدنو مرمى قصيا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-5">
+                <Coords points="368,242 856,242 856,290 368,290 368,242"/>
+                <Baseline points="370,268 857,273"/>
+                <TextEquiv>
+                    <Unicode>ولكم قد حذرت منه ولكن / كان امرا مقدرا مقضيا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-6">
+                <Coords points="447,280 908,280 908,329 447,329 447,280"/>
+                <Baseline points="449,308 909,311"/>
+                <TextEquiv>
+                    <Unicode>قال وفوق النهاية من شعره قوله في الوعظ والزهد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-7">
+                <Coords points="362,324 878,324 878,367 362,367 362,324"/>
+                <Baseline points="364,349 879,351"/>
+                <TextEquiv>
+                    <Unicode>للمرء في ايامه واعظ / لو فكر المغرور في امسه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-8">
+                <Coords points="357,363 863,363 863,406 357,406 357,363"/>
+                <Baseline points="359,387 864,390"/>
+                <TextEquiv>
+                    <Unicode>كم من قرير العين في غبطة / اعراه صرف الدهر عن لبسه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-9">
+                <Coords points="357,404 866,404 866,445 357,445 357,404"/>
+                <Baseline points="359,428 867,430"/>
+                <TextEquiv>
+                    <Unicode>ففارق الاحباب عن كرهة / واستبدل الوحشة من انسه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-10">
+                <Coords points="357,440 861,440 861,486 357,486 357,440"/>
+                <Baseline points="358,467 862,471"/>
+                <TextEquiv>
+                    <Unicode>يا رب غفرانك يرجو الذي / اسرف في الدنيا على نفسه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-11">
+                <Coords points="311,479 909,479 909,530 311,530 311,479"/>
+                <Baseline points="312,505 910,513"/>
+                <TextEquiv>
+                    <Unicode>ومنهم مطر بن تميم الفزاري قال ابن رشيق موطنه صفاقس وهو شاعر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-12">
+                <Coords points="579,525 908,525 908,565 579,565 579,525"/>
+                <Baseline points="581,548 909,550"/>
+                <TextEquiv>
+                    <Unicode>حسن الطريقة في الشعر وانشد له</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-13">
+                <Coords points="325,563 895,563 895,608 325,608 325,563"/>
+                <Baseline points="327,589 394,587 896,590"/>
+                <TextEquiv>
+                    <Unicode>يا سن عذيري من شوقي وتسهيدي / وسن معيني على نوحي وتعديدي</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-14">
+                <Coords points="333,604 895,604 895,647 333,647 333,604"/>
+                <Baseline points="334,628 896,630"/>
+                <TextEquiv>
+                    <Unicode>تطاول الليل وامتدت غرائبه / وصح لي ورد عين غير مورودي</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-15">
+                <Coords points="325,641 896,641 896,687 325,687 325,641"/>
+                <Baseline points="327,668 897,670"/>
+                <TextEquiv>
+                    <Unicode>لا اطمع الغمض الا ان يطيف به / طيف ويذهب مفقودا بمفقودي</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-16">
+                <Coords points="422,682 906,682 906,726 422,726 422,682"/>
+                <Baseline points="424,706 907,709"/>
+                <TextEquiv>
+                    <Unicode>قال هذا من حر الكلام ونفيسه وفي هذه القصيدة يقول</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-17">
+                <Coords points="325,720 893,720 893,767 325,767 325,720"/>
+                <Baseline points="327,745 894,752"/>
+                <TextEquiv>
+                    <Unicode>وما استقرت على بحر الهوى سفن / شطت بهم عن كئيب القلب معمود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-18">
+                <Coords points="327,760 892,760 892,806 327,806 327,760"/>
+                <Baseline points="328,783 640,789 893,789"/>
+                <TextEquiv>
+                    <Unicode>استودع الله سن ولى واودعني / شوقا اليه جديدا غير مجدود</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-19">
+                <Coords points="304,802 907,802 907,843 304,843 304,802"/>
+                <Baseline points="305,827 908,828"/>
+                <TextEquiv>
+                    <Unicode>قال قوله جديدا غير مجدود من غريب الشعر والمجدود هنا المحظوظ ولو</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-20">
+                <Coords points="305,840 907,840 907,882 305,882 305,840"/>
+                <Baseline points="306,866 908,867"/>
+                <TextEquiv>
+                    <Unicode>جعلته من الجد الذي هو القطع كانه قال غير مقطوع لكان جيدا والاول</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-21">
+                <Coords points="303,879 909,879 909,926 303,926 303,879"/>
+                <Baseline points="305,904 910,908"/>
+                <TextEquiv>
+                    <Unicode>اشهر ومن علماء صفاقس وشعرائها ولم يذكره ابن رشيق في الانموذج وهو</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-22">
+                <Coords points="306,922 907,922 907,963 306,963 306,922"/>
+                <Baseline points="308,944 908,946"/>
+                <TextEquiv>
+                    <Unicode>من المعاصرين له ابو عمرو غسان بن ابي بكر بن حمودة الصدفي المعروف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-23">
+                <Coords points="306,958 908,958 908,1003 306,1003 306,958"/>
+                <Baseline points="308,983 909,988"/>
+                <TextEquiv>
+                    <Unicode>بابن الضابط الامام المحدث الشاعر له رحلة الى المشرق واخذ فيها عن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-24">
+                <Coords points="305,1000 908,1000 908,1045 305,1045 305,1000"/>
+                <Baseline points="307,1023 909,1029"/>
+                <TextEquiv>
+                    <Unicode>جماعة يطول تعدادهم منهم الحافظ ابو نعيم صحبه باصبهان وكتب عنه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-25">
+                <Coords points="309,1040 906,1040 906,1084 309,1084 309,1040"/>
+                <Baseline points="311,1065 907,1068"/>
+                <TextEquiv>
+                    <Unicode>كثيرا ذكر انه كتب عنه بخطه مائة الف حديت وكان يقول لم ار مثل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-26">
+                <Coords points="306,1078 903,1078 903,1136 306,1136 306,1078"/>
+                <Baseline points="308,1102 904,1111"/>
+                <TextEquiv>
+                    <Unicode>ابي نعيم علما وعملا ثم توجه الى لاندلس سنة ست وثلاثين واربعمائة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>قد نشرنا صحائف المحزن نشرا / وطوينا العزاء بعدك طيا
+واطلنا البكا عليك واني / لعليم ان ليس يرجع شيا
+فالى الله من فراق رماني / عنك بعد الدنو مرمى قصيا
+ولكم قد حذرت منه ولكن / كان امرا مقدرا مقضيا
+قال وفوق النهاية من شعره قوله في الوعظ والزهد
+للمرء في ايامه واعظ / لو فكر المغرور في امسه
+كم من قرير العين في غبطة / اعراه صرف الدهر عن لبسه
+ففارق الاحباب عن كرهة / واستبدل الوحشة من انسه
+يا رب غفرانك يرجو الذي / اسرف في الدنيا على نفسه
+ومنهم مطر بن تميم الفزاري قال ابن رشيق موطنه صفاقس وهو شاعر
+حسن الطريقة في الشعر وانشد له
+يا سن عذيري من شوقي وتسهيدي / وسن معيني على نوحي وتعديدي
+تطاول الليل وامتدت غرائبه / وصح لي ورد عين غير مورودي
+لا اطمع الغمض الا ان يطيف به / طيف ويذهب مفقودا بمفقودي
+قال هذا من حر الكلام ونفيسه وفي هذه القصيدة يقول
+وما استقرت على بحر الهوى سفن / شطت بهم عن كئيب القلب معمود
+استودع الله سن ولى واودعني / شوقا اليه جديدا غير مجدود
+قال قوله جديدا غير مجدود من غريب الشعر والمجدود هنا المحظوظ ولو
+جعلته من الجد الذي هو القطع كانه قال غير مقطوع لكان جيدا والاول
+اشهر ومن علماء صفاقس وشعرائها ولم يذكره ابن رشيق في الانموذج وهو
+من المعاصرين له ابو عمرو غسان بن ابي بكر بن حمودة الصدفي المعروف
+بابن الضابط الامام المحدث الشاعر له رحلة الى المشرق واخذ فيها عن
+جماعة يطول تعدادهم منهم الحافظ ابو نعيم صحبه باصبهان وكتب عنه
+كثيرا ذكر انه كتب عنه بخطه مائة الف حديت وكان يقول لم ار مثل
+ابي نعيم علما وعملا ثم توجه الى لاندلس سنة ست وثلاثين واربعمائة
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

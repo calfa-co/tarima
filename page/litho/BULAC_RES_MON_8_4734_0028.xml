@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Calfa</Creator>
+        <Created>2023-03-13T10:27:08Z</Created>
+        <LastChange>2023-03-15T15:51:55.882+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="BULAC_RES_MON_8_4734_0028.jpg" imageWidth="900" imageHeight="1417">
+        <TextRegion id="r_b-3" custom="structure {type:MainZone;}">
+            <Coords points="274,186 833,183 833,1156 280,1158 274,186"/>
+            <TextLine id="l_b-6">
+                <Coords points="283,187 824,187 824,236 283,236 283,187"/>
+                <Baseline points="285,218 825,215"/>
+                <TextEquiv>
+                    <Unicode>لمعد حتى توفي بعد انصرافه من سجلماسة بعلة القولنج حادي عشر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-7">
+                <Coords points="401,231 821,231 821,274 401,274 401,231"/>
+                <Baseline points="403,257 822,255"/>
+                <TextEquiv>
+                    <Unicode>ذي الجة من سنة ٣٧٣ ثلاث وسبعين وثلاثمائة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-8">
+                <Coords points="285,289 824,289 824,350 285,350 285,289"/>
+                <Baseline points="287,323 825,321"/>
+                <TextEquiv>
+                    <Unicode> ولاية ابي الفتح المنصور بن ابي الفتوح يوسف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-9">
+                <Coords points="284,366 824,366 824,406 284,406 284,366"/>
+                <Baseline points="285,391 825,391"/>
+                <TextEquiv>
+                    <Unicode>ولما مات يوسف بويع ابنه المذكور بمدينة ءاشير وكان جوادا كريما</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-10">
+                <Coords points="283,404 824,404 824,447 283,447 283,404"/>
+                <Baseline points="285,429 825,431"/>
+                <TextEquiv>
+                    <Unicode>حازما صارما فوجه اخاه يطوفت الى القيروان ولما شارفها تلقاه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-11">
+                <Coords points="285,445 824,445 824,489 285,489 285,445"/>
+                <Baseline points="286,474 825,471"/>
+                <TextEquiv>
+                    <Unicode>الوزير عبد الله بن محمد فقبض عليه واستصفى منه اموالا جمة ثم وصل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-12">
+                <Coords points="283,488 824,488 824,527 283,527 283,488"/>
+                <Baseline points="285,513 825,511"/>
+                <TextEquiv>
+                    <Unicode>المنصور في رجب من السنة واظهر الخير ووعد بالجميل وجهز هذية</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-13">
+                <Coords points="285,528 825,528 825,568 285,568 285,528"/>
+                <Baseline points="286,555 826,552"/>
+                <TextEquiv>
+                    <Unicode>جليلة لصاحب مصر واتته منه هدية ضخمة منها الفيل وذلك</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-14">
+                <Coords points="287,568 824,568 824,612 287,612 287,568"/>
+                <Baseline points="288,594 825,594"/>
+                <TextEquiv>
+                    <Unicode>سنة ٨٤ ولم يزل قاهرا ظافرا وايامه احسن ايام حتى توفي ثالث</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-15">
+                <Coords points="283,610 821,610 821,651 283,651 283,610"/>
+                <Baseline points="285,634 822,636"/>
+                <TextEquiv>
+                    <Unicode>ربيع الاول من سنة ٣٨٦ ست وثمانين وثلاثمائة ودفن بقصره في</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-16">
+                <Coords points="286,648 824,648 824,694 286,694 286,648"/>
+                <Baseline points="288,680 825,673"/>
+                <TextEquiv>
+                    <Unicode>صبرة ومن الغريب ان المنصور لما دخل افريقية عظم عنده عبد الله بن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-17">
+                <Coords points="285,688 824,688 824,732 285,732 285,688"/>
+                <Baseline points="286,718 825,713"/>
+                <TextEquiv>
+                    <Unicode>محمد المذكور وعاتب اخاه في شانه فاستبد وجمع الاموال وحملته</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-18">
+                <Coords points="286,728 826,728 826,776 286,776 286,728"/>
+                <Baseline points="288,761 827,754"/>
+                <TextEquiv>
+                    <Unicode>الدالة على الاستهانة بالقرابة والحاشية وغص الجميع بمقامه واحس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-19">
+                <Coords points="286,770 825,770 825,815 286,815 286,770"/>
+                <Baseline points="288,800 826,795"/>
+                <TextEquiv>
+                    <Unicode>بذلك المنصور فامره بالتخلي عن الوزارة والاقتصار على الكتابة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-20">
+                <Coords points="285,813 825,813 825,856 285,856 285,813"/>
+                <Baseline points="286,843 826,838"/>
+                <TextEquiv>
+                    <Unicode>والتصرف في جميع الولاة فانف من ذلك وقال القتلة ولا العزلة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-21">
+                <Coords points="290,853 825,853 825,900 290,900 290,853"/>
+                <Baseline points="292,885 826,877"/>
+                <TextEquiv>
+                    <Unicode>فقتله المنصور واخوه برماحها ثم امر بقتل ابنه يوم الاحد من ١١</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-22">
+                <Coords points="285,894 824,894 824,942 285,942 285,894"/>
+                <Baseline points="286,926 825,920"/>
+                <TextEquiv>
+                    <Unicode>رجب من السنة ولم ينتطح في قتلهما عنزان وقد جمع الكاتب ابو</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-23">
+                <Coords points="285,935 824,935 824,980 285,980 285,935"/>
+                <Baseline points="286,965 825,958"/>
+                <TextEquiv>
+                    <Unicode>اسحاق ابراهيم الرقيق القيرواني اخبار هذا الامير وابيه وجده في</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-24">
+                <Coords points="286,976 825,976 825,1021 286,1021 286,976"/>
+                <Baseline points="288,1008 826,1001"/>
+                <TextEquiv>
+                    <Unicode>تاليف مستقل وتخليد مئاثر الملوك دين على كتابها ثم تزلف لهم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-25">
+                <Coords points="286,1018 825,1018 825,1063 286,1063 286,1018"/>
+                <Baseline points="288,1047 826,1043"/>
+                <TextEquiv>
+                    <Unicode>وللعبيديين منافسي بني العباس في الجد بتاليف ءاخر سماه قطب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-26">
+                <Coords points="288,1060 825,1060 825,1108 288,1108 288,1060"/>
+                <Baseline points="290,1087 826,1084"/>
+                <TextEquiv>
+                    <Unicode>السرور وملاه بمثالب بني العباس وشهرهم بما هو مسطور فيه والله</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-27">
+                <Coords points="666,1100 827,1100 827,1142 666,1142 666,1100"/>
+                <Baseline points="667,1124 828,1125"/>
+                <TextEquiv>
+                    <Unicode>اعلم بالنيات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>لمعد حتى توفي بعد انصرافه من سجلماسة بعلة القولنج حادي عشر
+ذي الجة من سنة ٣٧٣ ثلاث وسبعين وثلاثمائة
+ ولاية ابي الفتح المنصور بن ابي الفتوح يوسف
+ولما مات يوسف بويع ابنه المذكور بمدينة ءاشير وكان جوادا كريما
+حازما صارما فوجه اخاه يطوفت الى القيروان ولما شارفها تلقاه
+الوزير عبد الله بن محمد فقبض عليه واستصفى منه اموالا جمة ثم وصل
+المنصور في رجب من السنة واظهر الخير ووعد بالجميل وجهز هذية
+جليلة لصاحب مصر واتته منه هدية ضخمة منها الفيل وذلك
+سنة ٨٤ ولم يزل قاهرا ظافرا وايامه احسن ايام حتى توفي ثالث
+ربيع الاول من سنة ٣٨٦ ست وثمانين وثلاثمائة ودفن بقصره في
+صبرة ومن الغريب ان المنصور لما دخل افريقية عظم عنده عبد الله بن
+محمد المذكور وعاتب اخاه في شانه فاستبد وجمع الاموال وحملته
+الدالة على الاستهانة بالقرابة والحاشية وغص الجميع بمقامه واحس
+بذلك المنصور فامره بالتخلي عن الوزارة والاقتصار على الكتابة
+والتصرف في جميع الولاة فانف من ذلك وقال القتلة ولا العزلة
+فقتله المنصور واخوه برماحها ثم امر بقتل ابنه يوم الاحد من ١١
+رجب من السنة ولم ينتطح في قتلهما عنزان وقد جمع الكاتب ابو
+اسحاق ابراهيم الرقيق القيرواني اخبار هذا الامير وابيه وجده في
+تاليف مستقل وتخليد مئاثر الملوك دين على كتابها ثم تزلف لهم
+وللعبيديين منافسي بني العباس في الجد بتاليف ءاخر سماه قطب
+السرور وملاه بمثالب بني العباس وشهرهم بما هو مسطور فيه والله
+اعلم بالنيات
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

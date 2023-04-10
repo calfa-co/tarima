@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Calfa</Creator>
+        <Created>2023-03-13T10:26:37Z</Created>
+        <LastChange>2023-03-15T15:42:53.611+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="BULAC_RES_MON_4_3416_0498.jpg" imageWidth="878" imageHeight="1417">
+        <TextRegion id="r_b-2" custom="structure {type:MainZone;}">
+            <Coords points="131,188 775,182 771,1242 135,1239 131,188"/>
+            <TextLine id="l_b-2">
+                <Coords points="423,201 471,201 471,237 423,237 423,201"/>
+                <Baseline points="425,221 472,219"/>
+                <TextEquiv>
+                    <Unicode>دور</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-3">
+                <Coords points="196,238 697,238 697,283 196,283 196,238"/>
+                <Baseline points="197,270 698,267"/>
+                <TextEquiv>
+                    <Unicode>سليل ذي الفضل محيي الدين والحسن / في نسبة منتهاها صاحب السنن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-4">
+                <Coords points="192,284 692,284 692,321 192,321 192,284"/>
+                <Baseline points="194,307 693,305"/>
+                <TextEquiv>
+                    <Unicode>بدر الجزا من وافى على سنن / غدا به عند رب العرش مرضيا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-5">
+                <Coords points="422,327 472,327 472,364 422,364 422,327"/>
+                <Baseline points="423,349 473,350"/>
+                <TextEquiv>
+                    <Unicode>دور</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-6">
+                <Coords points="190,365 698,365 698,409 190,409 190,365"/>
+                <Baseline points="192,393 699,390"/>
+                <TextEquiv>
+                    <Unicode>في فتنة الشام كم وفي من الهمم / حتى حكى صنعه نارا على علم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-7">
+                <Coords points="203,406 697,406 697,447 203,447 203,406"/>
+                <Baseline points="205,430 698,429"/>
+                <TextEquiv>
+                    <Unicode>وقد حبته ملوك الارض بالنعم / وللفخار نياشينا زهت زيا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-8">
+                <Coords points="422,456 471,456 471,494 422,494 422,456"/>
+                <Baseline points="424,475 472,474"/>
+                <TextEquiv>
+                    <Unicode>دور</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-9">
+                <Coords points="192,490 699,490 699,532 192,532 192,490"/>
+                <Baseline points="193,516 700,514"/>
+                <TextEquiv>
+                    <Unicode>وقد اتم صنيع الخير حيث سرى / لباب سلطاننا الاسمي الرفيع ذرا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-10">
+                <Coords points="200,530 694,530 694,571 200,571 200,530"/>
+                <Baseline points="201,552 695,554"/>
+                <TextEquiv>
+                    <Unicode>يرجوه اطلاق من في النفي فاعتبرا / منه المقام وبالبشرى له حيا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-11">
+                <Coords points="423,577 471,577 471,620 423,620 423,577"/>
+                <Baseline points="424,600 472,600"/>
+                <TextEquiv>
+                    <Unicode>دور</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-12">
+                <Coords points="190,614 703,614 703,654 190,654 190,614"/>
+                <Baseline points="192,640 704,639"/>
+                <TextEquiv>
+                    <Unicode>وقد بلغنا جميعا غاية الامل / بحسن اقدام هذا السيد البطل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-13">
+                <Coords points="196,652 703,652 703,693 196,693 196,652"/>
+                <Baseline points="197,677 704,677"/>
+                <TextEquiv>
+                    <Unicode>من فاق فينا بحسن العلم والعمل / لازال دهرا من الاسوا محميا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-14">
+                <Coords points="363,690 534,690 534,739 363,739 363,690"/>
+                <Baseline points="364,720 535,723"/>
+                <TextEquiv>
+                    <Unicode>وله في ذلك ايضا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-15">
+                <Coords points="196,739 699,739 699,780 196,780 196,739"/>
+                <Baseline points="197,761 700,764"/>
+                <TextEquiv>
+                    <Unicode>شيرى فقد نلنا  المني والغم زال والعنا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-16">
+                <Coords points="424,791 474,791 474,828 424,828 424,791"/>
+                <Baseline points="426,811 475,812"/>
+                <TextEquiv>
+                    <Unicode>دور</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-17">
+                <Coords points="203,821 706,821 706,867 203,867 203,821"/>
+                <Baseline points="204,849 707,846"/>
+                <TextEquiv>
+                    <Unicode>الله عودنا الجميل / من فيض احسان جزيل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-18">
+                <Coords points="197,862 701,862 701,902 197,902 197,862"/>
+                <Baseline points="199,883 702,887"/>
+                <TextEquiv>
+                    <Unicode>لا  بد للخطب  الجليل / من  منحة فيها الهنا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-19">
+                <Coords points="422,912 474,912 474,954 422,954 422,912"/>
+                <Baseline points="423,936 475,937"/>
+                <TextEquiv>
+                    <Unicode>دور</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-20">
+                <Coords points="194,944 700,944 700,990 194,990 194,944"/>
+                <Baseline points="196,972 701,969"/>
+                <TextEquiv>
+                    <Unicode>كم شدة ذاب الفؤاد / منها وجافانا السهاد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-21">
+                <Coords points="193,988 701,988 701,1026 193,1026 193,988"/>
+                <Baseline points="195,1006 702,1008"/>
+                <TextEquiv>
+                    <Unicode>قد حفها لطف فعاد / فيها لنا يسر دنا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-22">
+                <Coords points="417,1034 469,1034 469,1077 417,1077 417,1034"/>
+                <Baseline points="419,1058 470,1060"/>
+                <TextEquiv>
+                    <Unicode>دور</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-23">
+                <Coords points="194,1072 703,1072 703,1113 194,1113 194,1072"/>
+                <Baseline points="195,1095 704,1095"/>
+                <TextEquiv>
+                    <Unicode>صبرا  اخا العقل السليم / وارضى بتقدير الحكيم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-24">
+                <Coords points="198,1111 701,1111 701,1150 198,1150 198,1111"/>
+                <Baseline points="200,1131 702,1133"/>
+                <TextEquiv>
+                    <Unicode>فالله ذو الفضل العظيم / بفضله قد عمنا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-25">
+                <Coords points="422,1165 471,1165 471,1199 422,1199 422,1165"/>
+                <Baseline points="423,1185 472,1184"/>
+                <TextEquiv>
+                    <Unicode>دور</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-26">
+                <Coords points="199,1195 702,1195 702,1240 199,1240 199,1195"/>
+                <Baseline points="200,1217 703,1223"/>
+                <TextEquiv>
+                    <Unicode>بالصبر قد حزنا الفرج / وبه  لنا فاح الارج</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>سليل ذي الفضل محيي الدين والحسن / في نسبة منتهاها صاحب السنن
+بدر الجزا من وافى على سنن / غدا به عند رب العرش مرضيا
+في فتنة الشام كم وفي من الهمم / حتى حكى صنعه نارا على علم
+وقد حبته ملوك الارض بالنعم / وللفخار نياشينا زهت زيا
+وقد اتم صنيع الخير حيث سرى / لباب سلطاننا الاسمي الرفيع ذرا
+يرجوه اطلاق من في النفي فاعتبرا / منه المقام وبالبشرى له حيا
+وقد بلغنا جميعا غاية الامل / بحسن اقدام هذا السيد البطل
+من فاق فينا بحسن العلم والعمل / لازال دهرا من الاسوا محميا
+الله عودنا الجميل / من فيض احسان جزيل
+كم شدة ذاب الفؤاد / منها وجافانا السهاد
+صبرا  اخا العقل السليم / وارضى بتقدير الحكيم
+فالله ذو الفضل العظيم / بفضله قد عمنا
+دور
+دور
+دور
+دور
+وله في ذلك ايضا
+شيرى فقد نلنا  المني والغم زال والعنا
+دور
+لا  بد للخطب  الجليل / من  منحة فيها الهنا
+دور
+قد حفها لطف فعاد / فيها لنا يسر دنا
+دور
+بالصبر قد حزنا الفرج / وبه  لنا فاح الارج
+دور
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

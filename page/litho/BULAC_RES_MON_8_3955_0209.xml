@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Calfa</Creator>
+        <Created>2023-02-20T15:49:05Z</Created>
+        <LastChange>2023-03-15T15:49:45.703+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="BULAC_RES_MON_8_3955_0209.jpg" imageWidth="982" imageHeight="1265">
+        <TextRegion id="r_b-2" custom="structure {type:MainZone;}">
+            <Coords points="132,211 451,202 437,1046 124,1054 132,211"/>
+            <TextLine id="l_b-2">
+                <Coords points="144,198 778,198 778,248 144,248 144,198"/>
+                <Baseline points="146,231 779,228"/>
+                <TextEquiv>
+                    <Unicode>مع التونسه يا معتاه نهار ياريم / خرج محلة حموده وابنات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-3">
+                <Coords points="144,245 775,245 775,292 144,292 144,245"/>
+                <Baseline points="146,275 776,273"/>
+                <TextEquiv>
+                    <Unicode>بره من البلاد على ثلاثة دوار ياريم / فزع جميع العرب اهل الخيمات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-4">
+                <Coords points="143,288 772,288 772,332 143,332 143,288"/>
+                <Baseline points="144,314 773,314"/>
+                <TextEquiv>
+                    <Unicode>قومان راكبه شين لا يحصار ياريم / والكور المدافع فوق العجلات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-5">
+                <Coords points="139,327 772,327 772,380 139,380 139,327"/>
+                <Baseline points="141,355 773,364"/>
+                <TextEquiv>
+                    <Unicode>ويسير من وراهم عسكر جرار ياريم / وابعث خليفته هاذوك الازفات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-6">
+                <Coords points="142,374 772,374 772,418 142,418 142,374"/>
+                <Baseline points="144,400 773,401"/>
+                <TextEquiv>
+                    <Unicode>علي وبن عباد الكلب الغدار ياريم / رحلوا وجاوبا نواجعهم ضفات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-7">
+                <Coords points="137,415 776,415 776,457 137,457 137,415"/>
+                <Baseline points="139,440 777,443"/>
+                <TextEquiv>
+                    <Unicode>وويدان حامل كالبح الزخار / ءاخر يقول ناخذ منها خودات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-8">
+                <Coords points="139,456 772,456 772,502 139,502 139,456"/>
+                <Baseline points="140,484 492,482 773,486"/>
+                <TextEquiv>
+                    <Unicode>وءاخر يقول نسعى منها الابكار / واما رجالهم ما فيهم شفعات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-9">
+                <Coords points="139,498 774,498 774,541 139,541 139,498"/>
+                <Baseline points="140,524 405,528 775,525"/>
+                <TextEquiv>
+                    <Unicode>ونهدموا المدينة وتعود قفار / المال والسعاية لينابا ثبات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-10">
+                <Coords points="135,540 768,540 768,590 135,590 135,540"/>
+                <Baseline points="137,567 519,570 769,576"/>
+                <TextEquiv>
+                    <Unicode>والروح الى حموده في خنار / هذا حسابهم ما حسبوه الازفات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-11">
+                <Coords points="127,584 771,584 771,628 127,628 127,584"/>
+                <Baseline points="128,610 772,607"/>
+                <TextEquiv>
+                    <Unicode>وانسا وحكم رب الحي القهار / هذا احسابهم ما حسب قوم الطحين</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-12">
+                <Coords points="133,624 779,624 779,666 133,666 133,624"/>
+                <Baseline points="134,649 780,649"/>
+                <TextEquiv>
+                    <Unicode>وانسا وحكم رب الحي الجواد / امدور الفلك بالقدره في كل حين</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-13">
+                <Coords points="134,664 772,664 772,705 134,705 134,664"/>
+                <Baseline points="135,686 773,689"/>
+                <TextEquiv>
+                    <Unicode>امر ينفد في رمشت الاثماد / لاحبر عقوبه لاهاب صالحين</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-14">
+                <Coords points="132,699 772,699 772,747 132,747 132,699"/>
+                <Baseline points="134,727 773,732"/>
+                <TextEquiv>
+                    <Unicode>اعمات ابصارهم واتخطا والمعتاد / حتى اكلا وزنده بضرب البلاد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-15">
+                <Coords points="130,747 772,747 772,791 130,791 130,747"/>
+                <Baseline points="131,775 773,773"/>
+                <TextEquiv>
+                    <Unicode>ما صار في البلاد الدهما باثبات / مع التوانسه يا معتاه انهار ياريم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-16">
+                <Coords points="133,792 772,792 772,831 133,831 133,792"/>
+                <Baseline points="134,815 773,815"/>
+                <TextEquiv>
+                    <Unicode>ما صار في البلاد الدهما يا ناس / مع التوانسه جاونا جده اكثير</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-17">
+                <Coords points="130,833 772,833 772,874 130,874 130,833"/>
+                <Baseline points="131,860 773,857"/>
+                <TextEquiv>
+                    <Unicode>حطوا على البلد ونصب مرجاص / الخصرت المدينة في يوم عسير</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-18">
+                <Coords points="127,874 775,874 775,916 127,916 127,874"/>
+                <Baseline points="128,900 776,900"/>
+                <TextEquiv>
+                    <Unicode>جرج اعساكر للزدمه دعاس / على كل باب تسمع ضحجا واهدير</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-19">
+                <Coords points="125,917 771,917 771,963 125,963 125,917"/>
+                <Baseline points="127,945 772,943"/>
+                <TextEquiv>
+                    <Unicode>وانتصبت المشالي قوم وتراس / اهل البلاد فزع شايب وصغير</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-20">
+                <Coords points="123,960 770,960 770,1004 123,1004 123,960"/>
+                <Baseline points="125,986 771,984"/>
+                <TextEquiv>
+                    <Unicode>اهما الطراد بكور ومدفع وارصاص / نيران شاعله ياق في يوم كبير</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-21">
+                <Coords points="125,1000 771,1000 771,1051 125,1051 125,1000"/>
+                <Baseline points="127,1030 772,1024"/>
+                <TextEquiv>
+                    <Unicode>فعدت عساكر مرمي تعفاس / عل كل باب وارجع كاسر واحقير</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مع التونسه يا معتاه نهار ياريم / خرج محلة حموده وابنات
+بره من البلاد على ثلاثة دوار ياريم / فزع جميع العرب اهل الخيمات
+قومان راكبه شين لا يحصار ياريم / والكور المدافع فوق العجلات
+ويسير من وراهم عسكر جرار ياريم / وابعث خليفته هاذوك الازفات
+علي وبن عباد الكلب الغدار ياريم / رحلوا وجاوبا نواجعهم ضفات
+وويدان حامل كالبح الزخار / ءاخر يقول ناخذ منها خودات
+وءاخر يقول نسعى منها الابكار / واما رجالهم ما فيهم شفعات
+ونهدموا المدينة وتعود قفار / المال والسعاية لينابا ثبات
+والروح الى حموده في خنار / هذا حسابهم ما حسبوه الازفات
+وانسا وحكم رب الحي القهار / هذا احسابهم ما حسب قوم الطحين
+وانسا وحكم رب الحي الجواد / امدور الفلك بالقدره في كل حين
+امر ينفد في رمشت الاثماد / لاحبر عقوبه لاهاب صالحين
+اعمات ابصارهم واتخطا والمعتاد / حتى اكلا وزنده بضرب البلاد
+ما صار في البلاد الدهما باثبات / مع التوانسه يا معتاه انهار ياريم
+ما صار في البلاد الدهما يا ناس / مع التوانسه جاونا جده اكثير
+حطوا على البلد ونصب مرجاص / الخصرت المدينة في يوم عسير
+جرج اعساكر للزدمه دعاس / على كل باب تسمع ضحجا واهدير
+وانتصبت المشالي قوم وتراس / اهل البلاد فزع شايب وصغير
+اهما الطراد بكور ومدفع وارصاص / نيران شاعله ياق في يوم كبير
+فعدت عساكر مرمي تعفاس / عل كل باب وارجع كاسر واحقير
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1678891777035_687" custom="structure {type:MainZone;}">
+            <Coords points="470,211 771,211 771,1036 470,1036"/>
+        </TextRegion>
+    </Page>
+</PcGts>

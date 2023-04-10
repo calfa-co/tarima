@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Calfa</Creator>
+        <Created>2023-02-20T15:37:28Z</Created>
+        <LastChange>2023-03-15T15:44:24.799+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="BULAC_RES_MON_4_3423_0047.jpg" imageWidth="915" imageHeight="1417">
+        <TextRegion id="r_b-2" custom="structure {type:MainZone;}">
+            <Coords points="64,205 735,213 735,825 66,825 64,205"/>
+            <TextLine id="l_b-2">
+                <Coords points="83,200 654,200 654,251 83,251 83,200"/>
+                <Baseline points="85,236 263,233 655,236"/>
+                <TextEquiv>
+                    <Unicode>فنزل فخامته والحضرة العلية على نغمات النشيد الوطني الفرنساوي</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-3">
+                <Coords points="90,254 706,254 706,301 90,301 90,254"/>
+                <Baseline points="91,286 129,283 477,284 707,289"/>
+                <TextEquiv>
+                    <Unicode>وكان في استقبالهما كافة اهل الحل والعقد ولدى نزول فخامته البر ارسل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-4">
+                <Coords points="77,303 705,303 705,351 77,351 77,303"/>
+                <Baseline points="79,333 309,332 706,336"/>
+                <TextEquiv>
+                    <Unicode>جنابه رسائل برقية لملوك انكلتيرة وايطاليا واسبانيا في التشكر اليهم عن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-5">
+                <Coords points="85,353 709,353 709,399 85,399 85,353"/>
+                <Baseline points="86,379 710,384"/>
+                <TextEquiv>
+                    <Unicode>مشاركة اساطيلهم في الاحتفال بفخامته بمناسبة قدومه للبلاد التونسية مما</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-6">
+                <Coords points="82,404 714,404 714,452 82,452 82,404"/>
+                <Baseline points="84,430 715,435"/>
+                <TextEquiv>
+                    <Unicode>يؤيد علائق الوداد بين دولهم والدولة الجمهورية ولا شك ان في قدوم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-7">
+                <Coords points="87,453 707,453 707,496 87,496 87,453"/>
+                <Baseline points="88,483 159,480 708,482"/>
+                <TextEquiv>
+                    <Unicode>تلك الاساطيل في الاوقات الحاضرة معنى سياسيا دقيقا لانه صادف اول</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-8">
+                <Coords points="86,503 707,503 707,548 86,548 86,503"/>
+                <Baseline points="88,528 708,532"/>
+                <TextEquiv>
+                    <Unicode>مرة شاركت فيها اساطيل تلك الدول بالحضور رسميا في مظاهرات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-9">
+                <Coords points="505,555 708,555 708,595 505,595 505,555"/>
+                <Baseline points="507,578 709,580"/>
+                <TextEquiv>
+                    <Unicode>فرنساوية بالمياه التونسية</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-10">
+                <Coords points="99,599 678,599 678,650 99,650 99,599"/>
+                <Baseline points="100,628 259,625 463,630 679,630"/>
+                <TextEquiv>
+                    <Unicode>ثم تقدم جناب الوزير المقيم وعرف فخامة الرئيس باولئك الذوات ومشى</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-11">
+                <Coords points="98,647 706,647 706,695 98,695 98,647"/>
+                <Baseline points="100,677 247,675 707,680"/>
+                <TextEquiv>
+                    <Unicode>الموكب نحو جهة العساكر التي حشدت هنالك لا داء مراسم السلام والاحترام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-12">
+                <Coords points="90,701 710,701 710,753 90,753 90,701"/>
+                <Baseline points="92,733 165,729 711,735"/>
+                <TextEquiv>
+                    <Unicode>فاستعرضها فخامته ثم انعم بوسام الشرف من الدرجة الثالثة على الكلونيل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_b-13">
+                <Coords points="88,757 714,757 714,810 88,810 88,757"/>
+                <Baseline points="90,787 201,784 715,792"/>
+                <TextEquiv>
+                    <Unicode>دونال قائد الطبجية وباوسمة من الرتبة الرابعة على من دونه من ضباط البر والبحر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>فنزل فخامته والحضرة العلية على نغمات النشيد الوطني الفرنساوي
+وكان في استقبالهما كافة اهل الحل والعقد ولدى نزول فخامته البر ارسل
+جنابه رسائل برقية لملوك انكلتيرة وايطاليا واسبانيا في التشكر اليهم عن
+مشاركة اساطيلهم في الاحتفال بفخامته بمناسبة قدومه للبلاد التونسية مما
+يؤيد علائق الوداد بين دولهم والدولة الجمهورية ولا شك ان في قدوم
+تلك الاساطيل في الاوقات الحاضرة معنى سياسيا دقيقا لانه صادف اول
+مرة شاركت فيها اساطيل تلك الدول بالحضور رسميا في مظاهرات
+فرنساوية بالمياه التونسية
+ثم تقدم جناب الوزير المقيم وعرف فخامة الرئيس باولئك الذوات ومشى
+الموكب نحو جهة العساكر التي حشدت هنالك لا داء مراسم السلام والاحترام
+فاستعرضها فخامته ثم انعم بوسام الشرف من الدرجة الثالثة على الكلونيل
+دونال قائد الطبجية وباوسمة من الرتبة الرابعة على من دونه من ضباط البر والبحر
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
