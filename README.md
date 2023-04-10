@@ -22,7 +22,7 @@ It contains 120 images, for a total of:
 The TariMa dataset comprises different image resolution and size (width from 982px to 8049px), different layouts (double page, multiple columns), state of conservation, and also mixes microfilms and scans. It presents a very wide variety representative of the Maghrebi Arabic production.
 
 <figure>
-    <img src="docs/img/TariMa-project-mss.jpeg"/>
+    <img src="https://github.com/calfa-co/tarima/blob/main/docs/img/tarima-project-mss.jpeg"/>
     <figcaption>ms. Arabe 7214 (BnF, p. 17), MS.ARA.427 (BULAC, p. 36), MS.11 (MMSH, p. 117), and lithography RES.MON.8.7199 (BULAC, p. 118)</figcaption>
 </figure>
 
